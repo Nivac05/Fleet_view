@@ -1,0 +1,1001 @@
+Request_ID,Time,Zone,Vehicle_Type,Passengers/Load,Urgency,Weather
+1,2025-01-01 05:37:00,IT Park,Van,5,Normal,Light Showers
+2,2025-01-01 02:52:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+3,2025-01-01 02:43:00,Residential Area,Delivery Bike,1,Normal,Heavy Pour
+4,2025-01-01 16:34:00,Downtown,Bus,58,Normal,Clear
+5,2025-01-01 11:39:00,Residential Area,Taxi,3,Normal,Clear
+6,2025-01-01 11:42:00,Hospital,Taxi,5,Normal,Clear
+7,2025-01-01 05:07:00,Downtown,Bus,35,Normal,Light Showers
+8,2025-01-01 08:29:00,Airport,Taxi,4,Normal,Cloudy
+9,2025-01-01 09:05:00,University,Taxi,4,Normal,Thunderstorm
+10,2025-01-01 10:23:00,Industrial Zone,Bus,27,Normal,Thunderstorm
+11,2025-01-01 12:23:00,Downtown,Truck,8394,Normal,Light Showers
+12,2025-01-01 09:13:00,Harbor,Taxi,5,Normal,Thunderstorm
+13,2025-01-01 09:13:00,Downtown,Delivery Bike,1,Normal,Thunderstorm
+14,2025-01-01 10:24:00,Downtown,Delivery Bike,1,Normal,Thunderstorm
+15,2025-01-01 03:11:00,IT Park,Truck,1016,Normal,Heavy Pour
+16,2025-01-01 19:03:00,Suburbs,Delivery Bike,1,Normal,Light Showers
+17,2025-01-01 07:04:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+18,2025-01-01 19:13:00,Hospital,Taxi,4,Normal,Light Showers
+19,2025-01-01 00:28:00,University,Taxi,1,Normal,Thunderstorm
+20,2025-01-01 17:13:00,IT Park,Truck,19663,Normal,Thunderstorm
+21,2025-01-01 13:08:00,Industrial Zone,Van,4,Normal,Heavy Pour
+22,2025-01-01 11:54:00,Railway Station,Taxi,2,Normal,Clear
+23,2025-01-01 12:55:00,Bus Terminal,Bus,31,Normal,Light Showers
+24,2025-01-01 03:19:00,Hospital,Delivery Bike,1,Normal,Heavy Pour
+25,2025-01-01 01:18:00,University,Truck,9080,Normal,Thunderstorm
+26,2025-01-01 15:55:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+27,2025-01-01 14:15:00,University,Van,5,Normal,Clear
+28,2025-01-01 07:46:00,University,Van,5,Normal,Heavy Pour
+29,2025-01-01 23:59:00,University,Taxi,4,Normal,Light Showers
+30,2025-01-01 07:28:00,Airport,Taxi,5,Normal,Heavy Pour
+31,2025-01-01 17:11:00,Railway Station,Ambulance,1,Moderate,Thunderstorm
+32,2025-01-01 14:04:00,Downtown,Taxi,1,Normal,Clear
+33,2025-01-01 01:26:00,Suburbs,Van,3,Normal,Thunderstorm
+34,2025-01-01 23:28:00,Downtown,Bus,54,Normal,Light Showers
+35,2025-01-01 06:47:00,Mall,Delivery Bike,1,Normal,Cloudy
+36,2025-01-01 11:03:00,Downtown,Bus,26,Normal,Clear
+37,2025-01-01 02:27:00,University,Ambulance,1,Mild,Heavy Pour
+38,2025-01-01 04:36:00,Airport,Delivery Bike,2,Normal,Light Showers
+39,2025-01-01 06:05:00,Industrial Zone,Bus,45,Normal,Cloudy
+40,2025-01-01 07:15:00,Mall,Van,3,Normal,Heavy Pour
+41,2025-01-01 23:34:00,University,Taxi,3,Normal,Light Showers
+42,2025-01-01 08:59:00,University,Delivery Bike,1,Normal,Cloudy
+43,2025-01-01 07:21:00,Residential Area,Truck,9964,Normal,Heavy Pour
+44,2025-01-01 05:49:00,Airport,Taxi,2,Normal,Light Showers
+45,2025-01-01 16:31:00,Railway Station,Truck,7511,Normal,Clear
+46,2025-01-01 20:43:00,Airport,Taxi,1,Normal,Light Showers
+47,2025-01-01 20:46:00,IT Park,Truck,3376,Normal,Light Showers
+48,2025-01-01 16:01:00,Hospital,Ambulance,1,Mild,Clear
+49,2025-01-01 07:42:00,University,Ambulance,1,Critical,Heavy Pour
+50,2025-01-01 15:45:00,Mall,Bus,12,Normal,Heavy Pour
+51,2025-01-01 23:25:00,Residential Area,Bus,13,Normal,Light Showers
+52,2025-01-01 02:48:00,University,Taxi,1,Normal,Heavy Pour
+53,2025-01-01 06:17:00,Bus Terminal,Truck,7910,Normal,Cloudy
+54,2025-01-01 06:09:00,Harbor,Bus,19,Normal,Cloudy
+55,2025-01-01 02:28:00,Hospital,Delivery Bike,2,Normal,Heavy Pour
+56,2025-01-01 10:51:00,Railway Station,Delivery Bike,1,Normal,Thunderstorm
+57,2025-01-01 12:49:00,Railway Station,Delivery Bike,2,Normal,Light Showers
+58,2025-01-01 13:00:00,Downtown,Ambulance,1,Mild,Heavy Pour
+59,2025-01-01 02:39:00,Suburbs,Ambulance,1,Critical,Heavy Pour
+60,2025-01-01 05:50:00,Industrial Zone,Van,4,Normal,Light Showers
+61,2025-01-01 20:49:00,Airport,Ambulance,1,Moderate,Light Showers
+62,2025-01-01 08:42:00,Downtown,Truck,17905,Normal,Cloudy
+63,2025-01-01 13:02:00,Downtown,Ambulance,1,Critical,Heavy Pour
+64,2025-01-01 04:32:00,Hospital,Ambulance,1,Moderate,Light Showers
+65,2025-01-01 15:35:00,University,Taxi,2,Normal,Heavy Pour
+66,2025-01-01 03:02:00,IT Park,Delivery Bike,1,Normal,Heavy Pour
+67,2025-01-01 08:07:00,Mall,Van,3,Normal,Cloudy
+68,2025-01-01 14:05:00,University,Delivery Bike,2,Normal,Clear
+69,2025-01-01 16:24:00,Airport,Delivery Bike,2,Normal,Clear
+70,2025-01-01 13:09:00,Mall,Ambulance,1,Mild,Heavy Pour
+71,2025-01-01 06:53:00,Residential Area,Ambulance,1,Moderate,Cloudy
+72,2025-01-01 19:55:00,Downtown,Delivery Bike,2,Normal,Light Showers
+73,2025-01-01 11:25:00,Airport,Truck,19544,Normal,Clear
+74,2025-01-01 14:47:00,IT Park,Bus,30,Normal,Clear
+75,2025-01-01 02:01:00,Residential Area,Ambulance,1,Critical,Heavy Pour
+76,2025-01-01 20:45:00,University,Taxi,1,Normal,Light Showers
+77,2025-01-01 12:59:00,Hospital,Bus,50,Normal,Light Showers
+78,2025-01-01 15:42:00,Downtown,Bus,27,Normal,Heavy Pour
+79,2025-01-01 02:28:00,Residential Area,Truck,8165,Normal,Heavy Pour
+80,2025-01-01 11:00:00,Harbor,Ambulance,1,Moderate,Clear
+81,2025-01-01 05:01:00,Downtown,Van,4,Normal,Light Showers
+82,2025-01-01 03:22:00,Hospital,Ambulance,1,Moderate,Heavy Pour
+83,2025-01-01 04:15:00,IT Park,Delivery Bike,2,Normal,Light Showers
+84,2025-01-01 11:01:00,Airport,Ambulance,1,Mild,Clear
+85,2025-01-01 03:54:00,Downtown,Van,1,Normal,Heavy Pour
+86,2025-01-01 08:53:00,Suburbs,Bus,37,Normal,Cloudy
+87,2025-01-01 12:49:00,University,Delivery Bike,1,Normal,Light Showers
+88,2025-01-01 03:32:00,Residential Area,Taxi,4,Normal,Heavy Pour
+89,2025-01-01 04:42:00,Downtown,Delivery Bike,2,Normal,Light Showers
+90,2025-01-01 23:50:00,Airport,Van,4,Normal,Light Showers
+91,2025-01-01 07:40:00,Industrial Zone,Taxi,3,Normal,Heavy Pour
+92,2025-01-01 07:00:00,Airport,Ambulance,1,Mild,Heavy Pour
+93,2025-01-01 22:56:00,Suburbs,Delivery Bike,2,Normal,Cloudy
+94,2025-01-01 08:34:00,Downtown,Truck,9894,Normal,Cloudy
+95,2025-01-01 00:18:00,Downtown,Bus,32,Normal,Thunderstorm
+96,2025-01-01 06:52:00,Hospital,Taxi,4,Normal,Cloudy
+97,2025-01-01 23:10:00,Suburbs,Truck,10496,Normal,Light Showers
+98,2025-01-01 19:11:00,University,Ambulance,1,Mild,Light Showers
+99,2025-01-01 20:52:00,Suburbs,Bus,56,Normal,Light Showers
+100,2025-01-01 02:15:00,Hospital,Van,2,Normal,Heavy Pour
+101,2025-01-01 20:09:00,Downtown,Delivery Bike,2,Normal,Light Showers
+102,2025-01-01 02:08:00,Downtown,Truck,17898,Normal,Heavy Pour
+103,2025-01-01 07:28:00,Harbor,Delivery Bike,2,Normal,Heavy Pour
+104,2025-01-01 18:47:00,Suburbs,Bus,44,Normal,Heavy Pour
+105,2025-01-01 20:47:00,University,Taxi,2,Normal,Light Showers
+106,2025-01-01 07:52:00,Hospital,Truck,4081,Normal,Heavy Pour
+107,2025-01-01 23:48:00,IT Park,Truck,4967,Normal,Light Showers
+108,2025-01-01 05:01:00,Mall,Delivery Bike,1,Normal,Light Showers
+109,2025-01-01 15:22:00,Hospital,Bus,11,Normal,Heavy Pour
+110,2025-01-01 15:36:00,Hospital,Taxi,5,Normal,Heavy Pour
+111,2025-01-01 23:36:00,University,Van,4,Normal,Light Showers
+112,2025-01-01 15:31:00,Bus Terminal,Truck,15933,Normal,Heavy Pour
+113,2025-01-01 03:53:00,Downtown,Truck,11805,Normal,Heavy Pour
+114,2025-01-01 17:15:00,University,Taxi,1,Normal,Thunderstorm
+115,2025-01-01 17:17:00,Airport,Taxi,1,Normal,Thunderstorm
+116,2025-01-01 23:20:00,University,Bus,29,Normal,Light Showers
+117,2025-01-01 09:46:00,Suburbs,Taxi,3,Normal,Thunderstorm
+118,2025-01-01 16:54:00,Industrial Zone,Bus,15,Normal,Clear
+119,2025-01-01 20:34:00,Railway Station,Delivery Bike,1,Normal,Light Showers
+120,2025-01-01 11:37:00,Airport,Delivery Bike,2,Normal,Clear
+121,2025-01-01 23:24:00,Downtown,Ambulance,1,Mild,Light Showers
+122,2025-01-01 19:15:00,Residential Area,Truck,10235,Normal,Light Showers
+123,2025-01-01 08:55:00,Residential Area,Ambulance,1,Mild,Cloudy
+124,2025-01-01 16:53:00,Bus Terminal,Taxi,3,Normal,Clear
+125,2025-01-01 19:37:00,Airport,Taxi,5,Normal,Light Showers
+126,2025-01-01 13:41:00,IT Park,Taxi,5,Normal,Heavy Pour
+127,2025-01-01 03:21:00,Bus Terminal,Ambulance,1,Moderate,Heavy Pour
+128,2025-01-01 00:37:00,Hospital,Taxi,4,Normal,Thunderstorm
+129,2025-01-01 03:07:00,Mall,Ambulance,1,Mild,Heavy Pour
+130,2025-01-01 18:00:00,Harbor,Ambulance,1,Critical,Heavy Pour
+131,2025-01-01 15:40:00,Airport,Truck,16379,Normal,Heavy Pour
+132,2025-01-01 04:32:00,Railway Station,Van,4,Normal,Light Showers
+133,2025-01-01 20:44:00,Mall,Bus,23,Normal,Light Showers
+134,2025-01-01 05:35:00,Harbor,Delivery Bike,2,Normal,Light Showers
+135,2025-01-01 17:58:00,Residential Area,Delivery Bike,2,Normal,Thunderstorm
+136,2025-01-01 14:59:00,IT Park,Truck,4959,Normal,Clear
+137,2025-01-01 12:45:00,Hospital,Ambulance,1,Mild,Light Showers
+138,2025-01-01 08:55:00,Downtown,Delivery Bike,2,Normal,Cloudy
+139,2025-01-01 09:53:00,Airport,Van,3,Normal,Thunderstorm
+140,2025-01-01 02:38:00,Airport,Taxi,4,Normal,Heavy Pour
+141,2025-01-01 00:59:00,Suburbs,Van,3,Normal,Thunderstorm
+142,2025-01-01 22:22:00,University,Van,3,Normal,Cloudy
+143,2025-01-01 06:45:00,Downtown,Taxi,5,Normal,Cloudy
+144,2025-01-01 18:19:00,Airport,Bus,39,Normal,Heavy Pour
+145,2025-01-01 22:17:00,Downtown,Van,5,Normal,Cloudy
+146,2025-01-01 15:26:00,Downtown,Van,4,Normal,Heavy Pour
+147,2025-01-01 00:18:00,Suburbs,Van,5,Normal,Thunderstorm
+148,2025-01-01 12:19:00,Downtown,Taxi,1,Normal,Light Showers
+149,2025-01-01 20:06:00,Downtown,Truck,11720,Normal,Light Showers
+150,2025-01-01 19:29:00,IT Park,Truck,1830,Normal,Light Showers
+151,2025-01-01 18:56:00,Harbor,Delivery Bike,1,Normal,Heavy Pour
+152,2025-01-01 07:55:00,Harbor,Taxi,3,Normal,Heavy Pour
+153,2025-01-01 22:06:00,Airport,Ambulance,1,Moderate,Cloudy
+154,2025-01-01 16:10:00,Downtown,Bus,54,Normal,Clear
+155,2025-01-01 02:40:00,Residential Area,Taxi,1,Normal,Heavy Pour
+156,2025-01-01 03:17:00,Airport,Delivery Bike,2,Normal,Heavy Pour
+157,2025-01-01 10:59:00,Hospital,Delivery Bike,2,Normal,Thunderstorm
+158,2025-01-01 17:50:00,Hospital,Taxi,3,Normal,Thunderstorm
+159,2025-01-01 06:38:00,Bus Terminal,Taxi,4,Normal,Cloudy
+160,2025-01-01 01:14:00,Airport,Bus,48,Normal,Thunderstorm
+161,2025-01-01 02:16:00,Airport,Ambulance,1,Moderate,Heavy Pour
+162,2025-01-01 10:01:00,Hospital,Taxi,5,Normal,Thunderstorm
+163,2025-01-01 08:19:00,Downtown,Van,5,Normal,Cloudy
+164,2025-01-01 02:17:00,Residential Area,Taxi,2,Normal,Heavy Pour
+165,2025-01-01 16:12:00,Downtown,Delivery Bike,1,Normal,Clear
+166,2025-01-01 04:13:00,Downtown,Taxi,5,Normal,Light Showers
+167,2025-01-01 11:49:00,Downtown,Taxi,1,Normal,Clear
+168,2025-01-01 09:22:00,Downtown,Taxi,5,Normal,Thunderstorm
+169,2025-01-01 09:06:00,Railway Station,Bus,55,Normal,Thunderstorm
+170,2025-01-01 15:21:00,Industrial Zone,Delivery Bike,1,Normal,Heavy Pour
+171,2025-01-01 09:40:00,Airport,Ambulance,1,Mild,Thunderstorm
+172,2025-01-01 22:52:00,Bus Terminal,Taxi,5,Normal,Cloudy
+173,2025-01-01 00:48:00,Residential Area,Truck,16433,Normal,Thunderstorm
+174,2025-01-01 11:43:00,Hospital,Bus,14,Normal,Clear
+175,2025-01-01 05:55:00,Mall,Van,2,Normal,Light Showers
+176,2025-01-01 21:23:00,IT Park,Delivery Bike,2,Normal,Thunderstorm
+177,2025-01-01 12:22:00,Downtown,Van,2,Normal,Light Showers
+178,2025-01-01 15:30:00,Residential Area,Ambulance,1,Critical,Heavy Pour
+179,2025-01-01 10:40:00,Downtown,Bus,33,Normal,Thunderstorm
+180,2025-01-01 22:16:00,Downtown,Bus,45,Normal,Cloudy
+181,2025-01-01 13:28:00,Bus Terminal,Taxi,4,Normal,Heavy Pour
+182,2025-01-01 23:07:00,Hospital,Delivery Bike,2,Normal,Light Showers
+183,2025-01-01 16:24:00,Railway Station,Ambulance,1,Moderate,Clear
+184,2025-01-01 09:07:00,Mall,Truck,16261,Normal,Thunderstorm
+185,2025-01-01 23:51:00,Mall,Bus,53,Normal,Light Showers
+186,2025-01-01 10:17:00,University,Delivery Bike,2,Normal,Thunderstorm
+187,2025-01-01 22:45:00,Mall,Delivery Bike,2,Normal,Cloudy
+188,2025-01-01 15:02:00,Airport,Taxi,3,Normal,Heavy Pour
+189,2025-01-01 20:43:00,Harbor,Truck,9461,Normal,Light Showers
+190,2025-01-01 10:31:00,Downtown,Taxi,2,Normal,Thunderstorm
+191,2025-01-01 23:43:00,IT Park,Bus,40,Normal,Light Showers
+192,2025-01-01 03:24:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+193,2025-01-01 14:00:00,Hospital,Van,5,Normal,Clear
+194,2025-01-01 20:51:00,Downtown,Bus,52,Normal,Light Showers
+195,2025-01-01 09:55:00,Downtown,Taxi,2,Normal,Thunderstorm
+196,2025-01-01 04:09:00,University,Van,3,Normal,Light Showers
+197,2025-01-01 03:15:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+198,2025-01-01 11:29:00,University,Bus,42,Normal,Clear
+199,2025-01-01 18:13:00,Hospital,Bus,24,Normal,Heavy Pour
+200,2025-01-01 11:11:00,University,Delivery Bike,2,Normal,Clear
+201,2025-01-01 20:26:00,Suburbs,Taxi,4,Normal,Light Showers
+202,2025-01-01 15:43:00,Hospital,Delivery Bike,1,Normal,Heavy Pour
+203,2025-01-01 08:11:00,Bus Terminal,Ambulance,1,Critical,Cloudy
+204,2025-01-01 14:55:00,Airport,Ambulance,1,Mild,Clear
+205,2025-01-01 02:21:00,Bus Terminal,Taxi,1,Normal,Heavy Pour
+206,2025-01-01 02:44:00,Airport,Taxi,2,Normal,Heavy Pour
+207,2025-01-01 00:20:00,University,Taxi,2,Normal,Thunderstorm
+208,2025-01-01 19:14:00,Airport,Bus,32,Normal,Light Showers
+209,2025-01-01 16:23:00,Residential Area,Ambulance,1,Moderate,Clear
+210,2025-01-01 05:04:00,Railway Station,Taxi,3,Normal,Light Showers
+211,2025-01-01 06:10:00,Hospital,Van,1,Normal,Cloudy
+212,2025-01-01 14:12:00,Suburbs,Taxi,4,Normal,Clear
+213,2025-01-01 07:24:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+214,2025-01-01 07:04:00,Downtown,Truck,7304,Normal,Heavy Pour
+215,2025-01-01 20:01:00,Mall,Delivery Bike,1,Normal,Light Showers
+216,2025-01-01 14:54:00,Airport,Truck,16352,Normal,Clear
+217,2025-01-01 05:26:00,Downtown,Taxi,1,Normal,Light Showers
+218,2025-01-01 09:52:00,Residential Area,Bus,33,Normal,Thunderstorm
+219,2025-01-01 09:32:00,Residential Area,Ambulance,1,Mild,Thunderstorm
+220,2025-01-01 22:57:00,Suburbs,Taxi,4,Normal,Cloudy
+221,2025-01-01 15:53:00,University,Truck,19474,Normal,Heavy Pour
+222,2025-01-01 07:02:00,Airport,Delivery Bike,2,Normal,Heavy Pour
+223,2025-01-01 02:56:00,Airport,Bus,26,Normal,Heavy Pour
+224,2025-01-01 16:05:00,Hospital,Delivery Bike,2,Normal,Clear
+225,2025-01-01 03:17:00,Airport,Taxi,2,Normal,Heavy Pour
+226,2025-01-01 14:01:00,Airport,Ambulance,1,Moderate,Clear
+227,2025-01-01 14:12:00,Airport,Truck,18921,Normal,Clear
+228,2025-01-01 00:21:00,Airport,Ambulance,1,Moderate,Thunderstorm
+229,2025-01-01 18:55:00,Residential Area,Van,1,Normal,Heavy Pour
+230,2025-01-01 18:09:00,Downtown,Van,2,Normal,Heavy Pour
+231,2025-01-01 01:37:00,Downtown,Truck,12407,Normal,Thunderstorm
+232,2025-01-01 07:14:00,Industrial Zone,Delivery Bike,1,Normal,Heavy Pour
+233,2025-01-01 18:29:00,Mall,Taxi,4,Normal,Heavy Pour
+234,2025-01-01 05:43:00,Bus Terminal,Van,4,Normal,Light Showers
+235,2025-01-01 09:30:00,Downtown,Truck,17009,Normal,Thunderstorm
+236,2025-01-01 10:10:00,IT Park,Van,3,Normal,Thunderstorm
+237,2025-01-01 09:20:00,Downtown,Truck,6055,Normal,Thunderstorm
+238,2025-01-01 00:31:00,Suburbs,Taxi,5,Normal,Thunderstorm
+239,2025-01-01 08:51:00,Residential Area,Truck,10369,Normal,Cloudy
+240,2025-01-01 06:22:00,Bus Terminal,Van,4,Normal,Cloudy
+241,2025-01-01 14:43:00,Airport,Delivery Bike,2,Normal,Clear
+242,2025-01-01 06:15:00,Hospital,Bus,49,Normal,Cloudy
+243,2025-01-01 03:32:00,Airport,Van,4,Normal,Heavy Pour
+244,2025-01-01 10:03:00,Suburbs,Taxi,3,Normal,Thunderstorm
+245,2025-01-01 23:24:00,Airport,Van,1,Normal,Light Showers
+246,2025-01-01 11:19:00,Railway Station,Bus,37,Normal,Clear
+247,2025-01-01 17:29:00,Suburbs,Truck,3113,Normal,Thunderstorm
+248,2025-01-01 21:17:00,Suburbs,Bus,12,Normal,Thunderstorm
+249,2025-01-01 17:47:00,Suburbs,Ambulance,1,Moderate,Thunderstorm
+250,2025-01-01 18:40:00,Residential Area,Truck,18961,Normal,Heavy Pour
+251,2025-01-01 16:51:00,University,Van,3,Normal,Clear
+252,2025-01-01 12:53:00,Residential Area,Delivery Bike,1,Normal,Light Showers
+253,2025-01-01 10:00:00,Residential Area,Van,3,Normal,Thunderstorm
+254,2025-01-01 20:01:00,University,Bus,52,Normal,Light Showers
+255,2025-01-01 11:48:00,Downtown,Taxi,3,Normal,Clear
+256,2025-01-01 12:58:00,Mall,Van,4,Normal,Light Showers
+257,2025-01-01 00:07:00,Bus Terminal,Bus,33,Normal,Thunderstorm
+258,2025-01-01 08:27:00,Hospital,Ambulance,1,Mild,Cloudy
+259,2025-01-01 07:55:00,Residential Area,Van,1,Normal,Heavy Pour
+260,2025-01-01 02:43:00,Downtown,Taxi,5,Normal,Heavy Pour
+261,2025-01-01 18:15:00,Airport,Van,1,Normal,Heavy Pour
+262,2025-01-01 09:18:00,IT Park,Truck,9078,Normal,Thunderstorm
+263,2025-01-01 03:57:00,IT Park,Taxi,2,Normal,Heavy Pour
+264,2025-01-01 09:13:00,Airport,Taxi,4,Normal,Thunderstorm
+265,2025-01-01 07:47:00,Airport,Bus,15,Normal,Heavy Pour
+266,2025-01-01 21:31:00,Suburbs,Van,2,Normal,Thunderstorm
+267,2025-01-01 12:54:00,Downtown,Bus,25,Normal,Light Showers
+268,2025-01-01 06:26:00,Airport,Taxi,5,Normal,Cloudy
+269,2025-01-01 04:18:00,Industrial Zone,Taxi,3,Normal,Light Showers
+270,2025-01-01 00:39:00,Hospital,Truck,7629,Normal,Thunderstorm
+271,2025-01-01 15:28:00,Hospital,Delivery Bike,2,Normal,Heavy Pour
+272,2025-01-01 19:12:00,Downtown,Bus,17,Normal,Light Showers
+273,2025-01-01 10:12:00,Mall,Bus,41,Normal,Thunderstorm
+274,2025-01-01 11:27:00,Bus Terminal,Truck,3307,Normal,Clear
+275,2025-01-01 16:29:00,Residential Area,Bus,15,Normal,Clear
+276,2025-01-01 06:05:00,Downtown,Truck,6906,Normal,Cloudy
+277,2025-01-01 09:03:00,Harbor,Delivery Bike,1,Normal,Thunderstorm
+278,2025-01-01 13:33:00,Suburbs,Delivery Bike,1,Normal,Heavy Pour
+279,2025-01-01 17:19:00,Downtown,Ambulance,1,Mild,Thunderstorm
+280,2025-01-01 19:12:00,Suburbs,Van,5,Normal,Light Showers
+281,2025-01-01 16:52:00,Downtown,Taxi,5,Normal,Clear
+282,2025-01-01 11:09:00,Airport,Van,5,Normal,Clear
+283,2025-01-01 19:45:00,IT Park,Bus,13,Normal,Light Showers
+284,2025-01-01 15:23:00,Downtown,Van,2,Normal,Heavy Pour
+285,2025-01-01 04:06:00,Bus Terminal,Delivery Bike,2,Normal,Light Showers
+286,2025-01-01 02:10:00,Residential Area,Van,1,Normal,Heavy Pour
+287,2025-01-01 03:15:00,Residential Area,Delivery Bike,1,Normal,Heavy Pour
+288,2025-01-01 15:29:00,Railway Station,Taxi,2,Normal,Heavy Pour
+289,2025-01-01 23:25:00,Suburbs,Delivery Bike,2,Normal,Light Showers
+290,2025-01-01 10:44:00,Downtown,Taxi,3,Normal,Thunderstorm
+291,2025-01-01 11:40:00,Railway Station,Bus,37,Normal,Clear
+292,2025-01-01 04:24:00,Industrial Zone,Truck,10587,Normal,Light Showers
+293,2025-01-01 10:45:00,Mall,Truck,17299,Normal,Thunderstorm
+294,2025-01-01 23:20:00,Downtown,Delivery Bike,1,Normal,Light Showers
+295,2025-01-01 15:42:00,Residential Area,Ambulance,1,Mild,Heavy Pour
+296,2025-01-01 23:07:00,Airport,Delivery Bike,2,Normal,Light Showers
+297,2025-01-01 07:36:00,Bus Terminal,Ambulance,1,Mild,Heavy Pour
+298,2025-01-01 12:04:00,Downtown,Ambulance,1,Critical,Light Showers
+299,2025-01-01 20:49:00,Suburbs,Taxi,3,Normal,Light Showers
+300,2025-01-01 09:47:00,Residential Area,Van,4,Normal,Thunderstorm
+301,2025-01-01 16:25:00,Airport,Bus,57,Normal,Clear
+302,2025-01-01 21:40:00,Railway Station,Ambulance,1,Mild,Thunderstorm
+303,2025-01-01 02:35:00,Railway Station,Delivery Bike,2,Normal,Heavy Pour
+304,2025-01-01 20:41:00,Harbor,Van,1,Normal,Light Showers
+305,2025-01-01 16:20:00,Hospital,Bus,44,Normal,Clear
+306,2025-01-01 09:05:00,University,Bus,50,Normal,Thunderstorm
+307,2025-01-01 05:06:00,Bus Terminal,Taxi,2,Normal,Light Showers
+308,2025-01-01 22:17:00,Hospital,Ambulance,1,Mild,Cloudy
+309,2025-01-01 18:18:00,Airport,Taxi,1,Normal,Heavy Pour
+310,2025-01-01 04:38:00,Bus Terminal,Ambulance,1,Mild,Light Showers
+311,2025-01-01 19:59:00,Hospital,Taxi,1,Normal,Light Showers
+312,2025-01-01 13:56:00,Industrial Zone,Ambulance,1,Mild,Heavy Pour
+313,2025-01-01 10:19:00,Airport,Van,3,Normal,Thunderstorm
+314,2025-01-01 14:21:00,Residential Area,Van,3,Normal,Clear
+315,2025-01-01 15:30:00,Industrial Zone,Truck,13576,Normal,Heavy Pour
+316,2025-01-01 12:03:00,Airport,Ambulance,1,Moderate,Light Showers
+317,2025-01-01 14:52:00,Suburbs,Van,2,Normal,Clear
+318,2025-01-01 18:09:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+319,2025-01-01 08:02:00,Airport,Bus,49,Normal,Cloudy
+320,2025-01-01 04:07:00,Downtown,Van,4,Normal,Light Showers
+321,2025-01-01 17:50:00,IT Park,Delivery Bike,1,Normal,Thunderstorm
+322,2025-01-01 07:33:00,Suburbs,Bus,18,Normal,Heavy Pour
+323,2025-01-01 02:03:00,Mall,Ambulance,1,Moderate,Heavy Pour
+324,2025-01-01 00:00:00,Suburbs,Ambulance,1,Moderate,Thunderstorm
+325,2025-01-01 16:07:00,Bus Terminal,Truck,4830,Normal,Clear
+326,2025-01-01 14:14:00,Suburbs,Taxi,3,Normal,Clear
+327,2025-01-01 08:35:00,Railway Station,Taxi,2,Normal,Cloudy
+328,2025-01-01 02:22:00,Suburbs,Truck,5628,Normal,Heavy Pour
+329,2025-01-01 03:46:00,IT Park,Taxi,1,Normal,Heavy Pour
+330,2025-01-01 15:48:00,Airport,Van,4,Normal,Heavy Pour
+331,2025-01-01 07:39:00,Hospital,Delivery Bike,1,Normal,Heavy Pour
+332,2025-01-01 09:10:00,Downtown,Truck,1392,Normal,Thunderstorm
+333,2025-01-01 14:04:00,Harbor,Delivery Bike,1,Normal,Clear
+334,2025-01-01 03:29:00,Suburbs,Van,3,Normal,Heavy Pour
+335,2025-01-01 10:45:00,Mall,Taxi,3,Normal,Thunderstorm
+336,2025-01-01 03:38:00,Downtown,Taxi,3,Normal,Heavy Pour
+337,2025-01-01 22:57:00,Suburbs,Taxi,4,Normal,Cloudy
+338,2025-01-01 08:20:00,Railway Station,Delivery Bike,2,Normal,Cloudy
+339,2025-01-01 11:41:00,Downtown,Bus,44,Normal,Clear
+340,2025-01-01 09:55:00,Railway Station,Van,1,Normal,Thunderstorm
+341,2025-01-01 04:40:00,Residential Area,Ambulance,1,Moderate,Light Showers
+342,2025-01-01 07:03:00,Bus Terminal,Truck,5249,Normal,Heavy Pour
+343,2025-01-01 10:13:00,Airport,Truck,2750,Normal,Thunderstorm
+344,2025-01-01 11:01:00,Downtown,Van,1,Normal,Clear
+345,2025-01-01 01:22:00,Bus Terminal,Bus,55,Normal,Thunderstorm
+346,2025-01-01 15:46:00,Downtown,Van,3,Normal,Heavy Pour
+347,2025-01-01 21:38:00,Downtown,Truck,6075,Normal,Thunderstorm
+348,2025-01-01 02:52:00,Mall,Taxi,1,Normal,Heavy Pour
+349,2025-01-01 12:42:00,IT Park,Ambulance,1,Mild,Light Showers
+350,2025-01-01 23:18:00,Downtown,Truck,18915,Normal,Light Showers
+351,2025-01-01 13:06:00,Airport,Bus,56,Normal,Heavy Pour
+352,2025-01-01 16:51:00,Harbor,Van,5,Normal,Clear
+353,2025-01-01 11:15:00,Railway Station,Van,1,Normal,Clear
+354,2025-01-01 04:45:00,Mall,Van,1,Normal,Light Showers
+355,2025-01-01 05:19:00,Hospital,Ambulance,1,Moderate,Light Showers
+356,2025-01-01 11:12:00,Downtown,Bus,34,Normal,Clear
+357,2025-01-01 20:26:00,Railway Station,Van,5,Normal,Light Showers
+358,2025-01-01 16:40:00,IT Park,Ambulance,1,Moderate,Clear
+359,2025-01-01 05:33:00,Mall,Taxi,1,Normal,Light Showers
+360,2025-01-01 01:07:00,Airport,Bus,37,Normal,Thunderstorm
+361,2025-01-01 08:33:00,Industrial Zone,Delivery Bike,1,Normal,Cloudy
+362,2025-01-01 19:10:00,Suburbs,Ambulance,1,Mild,Light Showers
+363,2025-01-01 21:18:00,Industrial Zone,Taxi,5,Normal,Thunderstorm
+364,2025-01-01 18:05:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+365,2025-01-01 07:11:00,Residential Area,Truck,10885,Normal,Heavy Pour
+366,2025-01-01 04:27:00,Downtown,Van,3,Normal,Light Showers
+367,2025-01-01 12:58:00,Downtown,Bus,55,Normal,Light Showers
+368,2025-01-01 11:00:00,Harbor,Delivery Bike,1,Normal,Clear
+369,2025-01-01 22:07:00,IT Park,Truck,13132,Normal,Cloudy
+370,2025-01-01 16:52:00,Railway Station,Delivery Bike,1,Normal,Clear
+371,2025-01-01 20:24:00,Bus Terminal,Taxi,5,Normal,Light Showers
+372,2025-01-01 22:27:00,Hospital,Van,3,Normal,Cloudy
+373,2025-01-01 16:16:00,Downtown,Bus,43,Normal,Clear
+374,2025-01-01 12:07:00,Airport,Taxi,1,Normal,Light Showers
+375,2025-01-01 17:11:00,IT Park,Taxi,5,Normal,Thunderstorm
+376,2025-01-01 05:42:00,Suburbs,Ambulance,1,Mild,Light Showers
+377,2025-01-01 05:31:00,Railway Station,Truck,7581,Normal,Light Showers
+378,2025-01-01 02:53:00,Industrial Zone,Delivery Bike,1,Normal,Heavy Pour
+379,2025-01-01 08:46:00,Industrial Zone,Ambulance,1,Critical,Cloudy
+380,2025-01-01 10:58:00,Hospital,Bus,35,Normal,Thunderstorm
+381,2025-01-01 13:39:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+382,2025-01-01 10:04:00,Suburbs,Truck,17789,Normal,Thunderstorm
+383,2025-01-01 03:51:00,Railway Station,Truck,15868,Normal,Heavy Pour
+384,2025-01-01 08:24:00,Airport,Van,5,Normal,Cloudy
+385,2025-01-01 02:58:00,Industrial Zone,Taxi,4,Normal,Heavy Pour
+386,2025-01-01 05:47:00,Railway Station,Truck,1771,Normal,Light Showers
+387,2025-01-01 23:49:00,Railway Station,Truck,17300,Normal,Light Showers
+388,2025-01-01 09:38:00,Industrial Zone,Bus,31,Normal,Thunderstorm
+389,2025-01-01 03:13:00,Downtown,Truck,3007,Normal,Heavy Pour
+390,2025-01-01 19:45:00,University,Bus,36,Normal,Light Showers
+391,2025-01-01 15:50:00,Airport,Delivery Bike,1,Normal,Heavy Pour
+392,2025-01-01 18:30:00,Mall,Bus,47,Normal,Heavy Pour
+393,2025-01-01 21:25:00,Suburbs,Taxi,1,Normal,Thunderstorm
+394,2025-01-01 09:32:00,Bus Terminal,Taxi,4,Normal,Thunderstorm
+395,2025-01-01 04:21:00,IT Park,Bus,35,Normal,Light Showers
+396,2025-01-01 04:42:00,Residential Area,Truck,8815,Normal,Light Showers
+397,2025-01-01 23:23:00,Residential Area,Delivery Bike,2,Normal,Light Showers
+398,2025-01-01 07:20:00,Mall,Bus,38,Normal,Heavy Pour
+399,2025-01-01 12:32:00,University,Bus,44,Normal,Light Showers
+400,2025-01-01 02:21:00,Hospital,Taxi,3,Normal,Heavy Pour
+401,2025-01-01 12:28:00,Hospital,Bus,29,Normal,Light Showers
+402,2025-01-01 10:52:00,Hospital,Bus,47,Normal,Thunderstorm
+403,2025-01-01 00:48:00,Downtown,Bus,55,Normal,Thunderstorm
+404,2025-01-01 14:40:00,Airport,Truck,18543,Normal,Clear
+405,2025-01-01 09:14:00,Residential Area,Truck,5987,Normal,Thunderstorm
+406,2025-01-01 14:24:00,Residential Area,Taxi,2,Normal,Clear
+407,2025-01-01 05:40:00,Hospital,Ambulance,1,Moderate,Light Showers
+408,2025-01-01 11:43:00,Bus Terminal,Ambulance,1,Moderate,Clear
+409,2025-01-01 05:17:00,Hospital,Truck,6482,Normal,Light Showers
+410,2025-01-01 06:21:00,Suburbs,Bus,50,Normal,Cloudy
+411,2025-01-01 22:47:00,Industrial Zone,Delivery Bike,1,Normal,Cloudy
+412,2025-01-01 13:36:00,Airport,Taxi,1,Normal,Heavy Pour
+413,2025-01-01 14:15:00,Downtown,Delivery Bike,1,Normal,Clear
+414,2025-01-01 13:38:00,Airport,Ambulance,1,Critical,Heavy Pour
+415,2025-01-01 03:02:00,Downtown,Bus,50,Normal,Heavy Pour
+416,2025-01-01 06:36:00,Harbor,Van,3,Normal,Cloudy
+417,2025-01-01 15:06:00,Airport,Ambulance,1,Critical,Heavy Pour
+418,2025-01-01 22:36:00,Suburbs,Ambulance,1,Moderate,Cloudy
+419,2025-01-01 02:06:00,Downtown,Bus,55,Normal,Heavy Pour
+420,2025-01-01 00:00:00,Railway Station,Truck,12431,Normal,Thunderstorm
+421,2025-01-01 00:18:00,Airport,Ambulance,1,Critical,Thunderstorm
+422,2025-01-01 22:35:00,Residential Area,Bus,17,Normal,Cloudy
+423,2025-01-01 07:35:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+424,2025-01-01 15:56:00,Residential Area,Delivery Bike,1,Normal,Heavy Pour
+425,2025-01-01 18:52:00,Bus Terminal,Delivery Bike,2,Normal,Heavy Pour
+426,2025-01-01 07:24:00,Airport,Taxi,1,Normal,Heavy Pour
+427,2025-01-01 22:04:00,Downtown,Delivery Bike,2,Normal,Cloudy
+428,2025-01-01 01:42:00,Mall,Ambulance,1,Moderate,Thunderstorm
+429,2025-01-01 16:27:00,Airport,Delivery Bike,2,Normal,Clear
+430,2025-01-01 08:39:00,Mall,Delivery Bike,1,Normal,Cloudy
+431,2025-01-01 14:18:00,Industrial Zone,Bus,55,Normal,Clear
+432,2025-01-01 22:46:00,Airport,Van,5,Normal,Cloudy
+433,2025-01-01 07:10:00,Downtown,Truck,1726,Normal,Heavy Pour
+434,2025-01-01 14:09:00,Downtown,Delivery Bike,2,Normal,Clear
+435,2025-01-01 22:27:00,Hospital,Ambulance,1,Mild,Cloudy
+436,2025-01-01 16:29:00,Suburbs,Truck,4744,Normal,Clear
+437,2025-01-01 10:38:00,Mall,Van,4,Normal,Thunderstorm
+438,2025-01-01 09:53:00,Residential Area,Ambulance,1,Mild,Thunderstorm
+439,2025-01-01 08:04:00,Bus Terminal,Truck,2774,Normal,Cloudy
+440,2025-01-01 06:51:00,Airport,Delivery Bike,2,Normal,Cloudy
+441,2025-01-01 18:27:00,Suburbs,Delivery Bike,1,Normal,Heavy Pour
+442,2025-01-01 05:31:00,Suburbs,Taxi,2,Normal,Light Showers
+443,2025-01-01 10:54:00,Downtown,Ambulance,1,Moderate,Thunderstorm
+444,2025-01-01 00:40:00,Hospital,Van,2,Normal,Thunderstorm
+445,2025-01-01 15:58:00,University,Truck,4868,Normal,Heavy Pour
+446,2025-01-01 01:44:00,Airport,Van,2,Normal,Thunderstorm
+447,2025-01-01 07:29:00,Mall,Truck,2842,Normal,Heavy Pour
+448,2025-01-01 21:29:00,IT Park,Bus,23,Normal,Thunderstorm
+449,2025-01-01 03:29:00,Downtown,Truck,5658,Normal,Heavy Pour
+450,2025-01-01 19:01:00,Airport,Delivery Bike,1,Normal,Light Showers
+451,2025-01-01 23:20:00,University,Ambulance,1,Critical,Light Showers
+452,2025-01-01 12:50:00,University,Ambulance,1,Critical,Light Showers
+453,2025-01-01 18:27:00,Suburbs,Van,3,Normal,Heavy Pour
+454,2025-01-01 10:28:00,Downtown,Delivery Bike,2,Normal,Thunderstorm
+455,2025-01-01 06:26:00,Hospital,Ambulance,1,Moderate,Cloudy
+456,2025-01-01 22:53:00,IT Park,Ambulance,1,Moderate,Cloudy
+457,2025-01-01 04:55:00,Downtown,Delivery Bike,2,Normal,Light Showers
+458,2025-01-01 18:24:00,Mall,Taxi,1,Normal,Heavy Pour
+459,2025-01-01 04:27:00,Downtown,Van,3,Normal,Light Showers
+460,2025-01-01 03:54:00,Hospital,Delivery Bike,1,Normal,Heavy Pour
+461,2025-01-01 22:14:00,Industrial Zone,Delivery Bike,1,Normal,Cloudy
+462,2025-01-01 16:25:00,Hospital,Van,5,Normal,Clear
+463,2025-01-01 20:36:00,Downtown,Taxi,1,Normal,Light Showers
+464,2025-01-01 19:10:00,Bus Terminal,Ambulance,1,Critical,Light Showers
+465,2025-01-01 03:42:00,University,Truck,8064,Normal,Heavy Pour
+466,2025-01-01 21:42:00,Suburbs,Taxi,1,Normal,Thunderstorm
+467,2025-01-01 21:57:00,Airport,Delivery Bike,2,Normal,Thunderstorm
+468,2025-01-01 04:36:00,Hospital,Taxi,3,Normal,Light Showers
+469,2025-01-01 06:59:00,University,Ambulance,1,Moderate,Cloudy
+470,2025-01-01 10:10:00,Suburbs,Van,5,Normal,Thunderstorm
+471,2025-01-01 06:14:00,Mall,Van,1,Normal,Cloudy
+472,2025-01-01 17:33:00,Airport,Truck,4259,Normal,Thunderstorm
+473,2025-01-01 23:07:00,Harbor,Ambulance,1,Mild,Light Showers
+474,2025-01-01 03:14:00,Hospital,Van,4,Normal,Heavy Pour
+475,2025-01-01 19:55:00,Railway Station,Taxi,1,Normal,Light Showers
+476,2025-01-01 18:06:00,IT Park,Delivery Bike,1,Normal,Heavy Pour
+477,2025-01-01 05:59:00,Airport,Delivery Bike,1,Normal,Light Showers
+478,2025-01-01 09:19:00,Suburbs,Ambulance,1,Moderate,Thunderstorm
+479,2025-01-01 11:11:00,Downtown,Van,2,Normal,Clear
+480,2025-01-01 19:01:00,Airport,Van,4,Normal,Light Showers
+481,2025-01-01 23:23:00,Hospital,Van,1,Normal,Light Showers
+482,2025-01-01 11:18:00,Downtown,Truck,4361,Normal,Clear
+483,2025-01-01 07:19:00,Mall,Bus,37,Normal,Heavy Pour
+484,2025-01-01 15:32:00,Mall,Ambulance,1,Moderate,Heavy Pour
+485,2025-01-01 00:06:00,Mall,Ambulance,1,Critical,Thunderstorm
+486,2025-01-01 20:19:00,Industrial Zone,Taxi,5,Normal,Light Showers
+487,2025-01-01 13:52:00,Suburbs,Delivery Bike,1,Normal,Heavy Pour
+488,2025-01-01 09:18:00,Residential Area,Truck,12411,Normal,Thunderstorm
+489,2025-01-01 20:25:00,Suburbs,Truck,8611,Normal,Light Showers
+490,2025-01-01 15:13:00,Hospital,Ambulance,1,Critical,Heavy Pour
+491,2025-01-01 16:46:00,Harbor,Van,3,Normal,Clear
+492,2025-01-01 02:05:00,Downtown,Truck,15730,Normal,Heavy Pour
+493,2025-01-01 13:36:00,Suburbs,Bus,58,Normal,Heavy Pour
+494,2025-01-01 09:35:00,Downtown,Ambulance,1,Mild,Thunderstorm
+495,2025-01-01 05:24:00,Hospital,Van,2,Normal,Light Showers
+496,2025-01-01 20:27:00,Suburbs,Ambulance,1,Critical,Light Showers
+497,2025-01-01 13:52:00,Railway Station,Delivery Bike,1,Normal,Heavy Pour
+498,2025-01-01 23:31:00,University,Truck,6744,Normal,Light Showers
+499,2025-01-01 13:56:00,University,Ambulance,1,Mild,Heavy Pour
+500,2025-01-01 15:25:00,Mall,Delivery Bike,2,Normal,Heavy Pour
+501,2025-01-01 22:47:00,Hospital,Bus,12,Normal,Cloudy
+502,2025-01-01 01:14:00,Airport,Van,5,Normal,Thunderstorm
+503,2025-01-01 19:38:00,Airport,Taxi,3,Normal,Light Showers
+504,2025-01-01 07:27:00,Bus Terminal,Ambulance,1,Critical,Heavy Pour
+505,2025-01-01 20:57:00,Industrial Zone,Van,3,Normal,Light Showers
+506,2025-01-01 04:21:00,Harbor,Ambulance,1,Mild,Light Showers
+507,2025-01-01 02:04:00,Industrial Zone,Ambulance,1,Critical,Heavy Pour
+508,2025-01-01 15:10:00,Airport,Delivery Bike,1,Normal,Heavy Pour
+509,2025-01-01 09:01:00,Airport,Van,2,Normal,Thunderstorm
+510,2025-01-01 08:04:00,Downtown,Bus,46,Normal,Cloudy
+511,2025-01-01 02:49:00,Suburbs,Truck,9315,Normal,Heavy Pour
+512,2025-01-01 17:38:00,Downtown,Truck,1785,Normal,Thunderstorm
+513,2025-01-01 03:20:00,Bus Terminal,Ambulance,1,Mild,Heavy Pour
+514,2025-01-01 06:08:00,Downtown,Taxi,5,Normal,Cloudy
+515,2025-01-01 01:16:00,Airport,Delivery Bike,1,Normal,Thunderstorm
+516,2025-01-01 07:10:00,Mall,Bus,26,Normal,Heavy Pour
+517,2025-01-01 01:48:00,Downtown,Truck,4807,Normal,Thunderstorm
+518,2025-01-01 16:47:00,Downtown,Delivery Bike,2,Normal,Clear
+519,2025-01-01 01:07:00,Mall,Delivery Bike,1,Normal,Thunderstorm
+520,2025-01-01 19:48:00,Residential Area,Delivery Bike,1,Normal,Light Showers
+521,2025-01-01 05:04:00,Mall,Taxi,5,Normal,Light Showers
+522,2025-01-01 11:13:00,Airport,Delivery Bike,1,Normal,Clear
+523,2025-01-01 13:40:00,Hospital,Taxi,3,Normal,Heavy Pour
+524,2025-01-01 05:42:00,Railway Station,Bus,12,Normal,Light Showers
+525,2025-01-01 22:57:00,Downtown,Taxi,5,Normal,Cloudy
+526,2025-01-01 12:41:00,University,Bus,58,Normal,Light Showers
+527,2025-01-01 05:40:00,University,Taxi,4,Normal,Light Showers
+528,2025-01-01 04:59:00,Airport,Ambulance,1,Critical,Light Showers
+529,2025-01-01 02:18:00,Downtown,Truck,1358,Normal,Heavy Pour
+530,2025-01-01 13:55:00,Downtown,Truck,10714,Normal,Heavy Pour
+531,2025-01-01 23:28:00,Suburbs,Taxi,4,Normal,Light Showers
+532,2025-01-01 21:43:00,Hospital,Ambulance,1,Critical,Thunderstorm
+533,2025-01-01 08:02:00,Residential Area,Van,5,Normal,Cloudy
+534,2025-01-01 18:54:00,Residential Area,Ambulance,1,Moderate,Heavy Pour
+535,2025-01-01 14:25:00,Harbor,Van,3,Normal,Clear
+536,2025-01-01 16:35:00,Airport,Delivery Bike,1,Normal,Clear
+537,2025-01-01 08:28:00,Hospital,Taxi,1,Normal,Cloudy
+538,2025-01-01 18:42:00,Harbor,Taxi,4,Normal,Heavy Pour
+539,2025-01-01 01:43:00,Downtown,Delivery Bike,2,Normal,Thunderstorm
+540,2025-01-01 12:41:00,Hospital,Bus,28,Normal,Light Showers
+541,2025-01-01 02:44:00,Airport,Delivery Bike,1,Normal,Heavy Pour
+542,2025-01-01 08:39:00,Mall,Delivery Bike,2,Normal,Cloudy
+543,2025-01-01 08:36:00,IT Park,Bus,26,Normal,Cloudy
+544,2025-01-01 10:12:00,Downtown,Bus,45,Normal,Thunderstorm
+545,2025-01-01 01:03:00,Residential Area,Taxi,3,Normal,Thunderstorm
+546,2025-01-01 19:00:00,IT Park,Bus,43,Normal,Light Showers
+547,2025-01-01 04:26:00,University,Delivery Bike,2,Normal,Light Showers
+548,2025-01-01 19:23:00,Airport,Taxi,5,Normal,Light Showers
+549,2025-01-01 06:34:00,Airport,Bus,48,Normal,Cloudy
+550,2025-01-01 07:55:00,Downtown,Van,5,Normal,Heavy Pour
+551,2025-01-01 16:16:00,Mall,Taxi,4,Normal,Clear
+552,2025-01-01 09:17:00,IT Park,Bus,21,Normal,Thunderstorm
+553,2025-01-01 14:42:00,Airport,Van,3,Normal,Clear
+554,2025-01-01 11:05:00,Suburbs,Ambulance,1,Critical,Clear
+555,2025-01-01 22:07:00,University,Delivery Bike,2,Normal,Cloudy
+556,2025-01-01 13:39:00,Downtown,Van,2,Normal,Heavy Pour
+557,2025-01-01 20:51:00,Airport,Van,3,Normal,Light Showers
+558,2025-01-01 20:39:00,University,Delivery Bike,1,Normal,Light Showers
+559,2025-01-01 06:38:00,Residential Area,Van,3,Normal,Cloudy
+560,2025-01-01 11:54:00,Downtown,Van,1,Normal,Clear
+561,2025-01-01 08:18:00,Mall,Ambulance,1,Moderate,Cloudy
+562,2025-01-01 16:13:00,Hospital,Van,3,Normal,Clear
+563,2025-01-01 01:21:00,Residential Area,Bus,37,Normal,Thunderstorm
+564,2025-01-01 12:51:00,Residential Area,Delivery Bike,1,Normal,Light Showers
+565,2025-01-01 06:04:00,Residential Area,Delivery Bike,1,Normal,Cloudy
+566,2025-01-01 17:51:00,University,Bus,18,Normal,Thunderstorm
+567,2025-01-01 01:55:00,Residential Area,Bus,54,Normal,Thunderstorm
+568,2025-01-01 05:36:00,Downtown,Delivery Bike,1,Normal,Light Showers
+569,2025-01-01 12:16:00,University,Taxi,3,Normal,Light Showers
+570,2025-01-01 22:26:00,IT Park,Truck,3490,Normal,Cloudy
+571,2025-01-01 13:56:00,Industrial Zone,Bus,22,Normal,Heavy Pour
+572,2025-01-01 15:42:00,Downtown,Bus,55,Normal,Heavy Pour
+573,2025-01-01 04:46:00,Harbor,Taxi,2,Normal,Light Showers
+574,2025-01-01 07:59:00,Mall,Delivery Bike,2,Normal,Heavy Pour
+575,2025-01-01 22:52:00,Suburbs,Bus,31,Normal,Cloudy
+576,2025-01-01 11:22:00,Airport,Bus,12,Normal,Clear
+577,2025-01-01 15:05:00,Railway Station,Delivery Bike,2,Normal,Heavy Pour
+578,2025-01-01 05:19:00,Suburbs,Taxi,5,Normal,Light Showers
+579,2025-01-01 20:27:00,University,Bus,11,Normal,Light Showers
+580,2025-01-01 11:35:00,Mall,Ambulance,1,Critical,Clear
+581,2025-01-01 21:49:00,Airport,Van,1,Normal,Thunderstorm
+582,2025-01-01 22:06:00,Airport,Bus,44,Normal,Cloudy
+583,2025-01-01 00:18:00,University,Bus,59,Normal,Thunderstorm
+584,2025-01-01 04:23:00,Downtown,Bus,35,Normal,Light Showers
+585,2025-01-01 01:52:00,Mall,Ambulance,1,Critical,Thunderstorm
+586,2025-01-01 22:30:00,Residential Area,Ambulance,1,Critical,Cloudy
+587,2025-01-01 09:01:00,Suburbs,Truck,11886,Normal,Thunderstorm
+588,2025-01-01 09:38:00,Railway Station,Bus,10,Normal,Thunderstorm
+589,2025-01-01 21:55:00,Suburbs,Delivery Bike,1,Normal,Thunderstorm
+590,2025-01-01 00:00:00,Downtown,Truck,10959,Normal,Thunderstorm
+591,2025-01-01 10:47:00,Railway Station,Van,5,Normal,Thunderstorm
+592,2025-01-01 03:07:00,Railway Station,Taxi,1,Normal,Heavy Pour
+593,2025-01-01 19:10:00,Airport,Delivery Bike,1,Normal,Light Showers
+594,2025-01-01 09:06:00,Airport,Truck,11433,Normal,Thunderstorm
+595,2025-01-01 11:42:00,Suburbs,Bus,49,Normal,Clear
+596,2025-01-01 21:28:00,Railway Station,Bus,43,Normal,Thunderstorm
+597,2025-01-01 15:41:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+598,2025-01-01 23:27:00,IT Park,Van,4,Normal,Light Showers
+599,2025-01-01 06:53:00,University,Ambulance,1,Mild,Cloudy
+600,2025-01-01 23:01:00,University,Taxi,3,Normal,Light Showers
+601,2025-01-01 22:58:00,Mall,Taxi,3,Normal,Cloudy
+602,2025-01-01 15:09:00,Airport,Truck,1187,Normal,Heavy Pour
+603,2025-01-01 21:53:00,Industrial Zone,Truck,3092,Normal,Thunderstorm
+604,2025-01-01 01:22:00,Hospital,Ambulance,1,Mild,Thunderstorm
+605,2025-01-01 19:06:00,University,Van,2,Normal,Light Showers
+606,2025-01-01 15:35:00,University,Van,1,Normal,Heavy Pour
+607,2025-01-01 06:14:00,Bus Terminal,Truck,13449,Normal,Cloudy
+608,2025-01-01 23:23:00,Downtown,Ambulance,1,Moderate,Light Showers
+609,2025-01-01 23:01:00,Harbor,Truck,8355,Normal,Light Showers
+610,2025-01-01 05:21:00,Residential Area,Bus,11,Normal,Light Showers
+611,2025-01-01 17:16:00,Airport,Van,4,Normal,Thunderstorm
+612,2025-01-01 21:53:00,Airport,Truck,3951,Normal,Thunderstorm
+613,2025-01-01 20:38:00,Suburbs,Van,3,Normal,Light Showers
+614,2025-01-01 12:12:00,Railway Station,Van,5,Normal,Light Showers
+615,2025-01-01 05:20:00,Airport,Truck,16592,Normal,Light Showers
+616,2025-01-01 07:16:00,Hospital,Bus,22,Normal,Heavy Pour
+617,2025-01-01 23:46:00,University,Van,5,Normal,Light Showers
+618,2025-01-01 22:16:00,IT Park,Bus,34,Normal,Cloudy
+619,2025-01-01 12:05:00,Residential Area,Taxi,1,Normal,Light Showers
+620,2025-01-01 03:02:00,Airport,Taxi,2,Normal,Heavy Pour
+621,2025-01-01 17:13:00,Bus Terminal,Taxi,4,Normal,Thunderstorm
+622,2025-01-01 10:59:00,Downtown,Bus,41,Normal,Thunderstorm
+623,2025-01-01 17:17:00,University,Truck,7555,Normal,Thunderstorm
+624,2025-01-01 16:51:00,Downtown,Truck,9244,Normal,Clear
+625,2025-01-01 06:47:00,Downtown,Van,4,Normal,Cloudy
+626,2025-01-01 20:28:00,Airport,Bus,32,Normal,Light Showers
+627,2025-01-01 12:55:00,Downtown,Bus,27,Normal,Light Showers
+628,2025-01-01 17:15:00,Downtown,Truck,7046,Normal,Thunderstorm
+629,2025-01-01 21:53:00,University,Taxi,2,Normal,Thunderstorm
+630,2025-01-01 05:53:00,University,Van,3,Normal,Light Showers
+631,2025-01-01 14:32:00,IT Park,Van,4,Normal,Clear
+632,2025-01-01 16:30:00,Residential Area,Truck,19268,Normal,Clear
+633,2025-01-01 19:37:00,IT Park,Delivery Bike,2,Normal,Light Showers
+634,2025-01-01 18:39:00,Industrial Zone,Ambulance,1,Moderate,Heavy Pour
+635,2025-01-01 04:53:00,Downtown,Delivery Bike,1,Normal,Light Showers
+636,2025-01-01 22:46:00,Airport,Bus,33,Normal,Cloudy
+637,2025-01-01 13:37:00,Airport,Ambulance,1,Critical,Heavy Pour
+638,2025-01-01 06:29:00,Harbor,Van,5,Normal,Cloudy
+639,2025-01-01 15:39:00,University,Bus,38,Normal,Heavy Pour
+640,2025-01-01 11:07:00,Suburbs,Delivery Bike,1,Normal,Clear
+641,2025-01-01 10:32:00,Industrial Zone,Delivery Bike,1,Normal,Thunderstorm
+642,2025-01-01 02:16:00,Downtown,Van,3,Normal,Heavy Pour
+643,2025-01-01 07:07:00,Railway Station,Van,4,Normal,Heavy Pour
+644,2025-01-01 10:11:00,Residential Area,Taxi,2,Normal,Thunderstorm
+645,2025-01-01 15:10:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+646,2025-01-01 02:20:00,Mall,Taxi,3,Normal,Heavy Pour
+647,2025-01-01 02:56:00,Hospital,Bus,15,Normal,Heavy Pour
+648,2025-01-01 10:23:00,IT Park,Delivery Bike,2,Normal,Thunderstorm
+649,2025-01-01 11:30:00,Bus Terminal,Ambulance,1,Critical,Clear
+650,2025-01-01 06:40:00,Airport,Truck,9662,Normal,Cloudy
+651,2025-01-01 03:37:00,Residential Area,Bus,38,Normal,Heavy Pour
+652,2025-01-01 15:28:00,Railway Station,Ambulance,1,Moderate,Heavy Pour
+653,2025-01-01 10:31:00,Suburbs,Taxi,2,Normal,Thunderstorm
+654,2025-01-01 02:54:00,Downtown,Truck,13180,Normal,Heavy Pour
+655,2025-01-01 03:54:00,Downtown,Van,5,Normal,Heavy Pour
+656,2025-01-01 18:44:00,Hospital,Van,1,Normal,Heavy Pour
+657,2025-01-01 08:42:00,Airport,Ambulance,1,Moderate,Cloudy
+658,2025-01-01 07:10:00,IT Park,Delivery Bike,1,Normal,Heavy Pour
+659,2025-01-01 08:52:00,Suburbs,Taxi,4,Normal,Cloudy
+660,2025-01-01 16:18:00,Bus Terminal,Delivery Bike,1,Normal,Clear
+661,2025-01-01 21:56:00,Hospital,Bus,51,Normal,Thunderstorm
+662,2025-01-01 15:12:00,Harbor,Delivery Bike,1,Normal,Heavy Pour
+663,2025-01-01 22:07:00,Suburbs,Delivery Bike,1,Normal,Cloudy
+664,2025-01-01 08:59:00,Suburbs,Truck,2378,Normal,Cloudy
+665,2025-01-01 22:06:00,Airport,Bus,57,Normal,Cloudy
+666,2025-01-01 03:46:00,Downtown,Van,4,Normal,Heavy Pour
+667,2025-01-01 14:32:00,Industrial Zone,Ambulance,1,Mild,Clear
+668,2025-01-01 14:51:00,Suburbs,Taxi,1,Normal,Clear
+669,2025-01-01 17:16:00,Airport,Truck,3257,Normal,Thunderstorm
+670,2025-01-01 12:20:00,Airport,Bus,22,Normal,Light Showers
+671,2025-01-01 18:43:00,Downtown,Van,2,Normal,Heavy Pour
+672,2025-01-01 10:48:00,Industrial Zone,Van,1,Normal,Thunderstorm
+673,2025-01-01 19:49:00,University,Delivery Bike,1,Normal,Light Showers
+674,2025-01-01 15:51:00,Suburbs,Truck,3005,Normal,Heavy Pour
+675,2025-01-01 18:43:00,Downtown,Truck,11860,Normal,Heavy Pour
+676,2025-01-01 19:56:00,Suburbs,Van,5,Normal,Light Showers
+677,2025-01-01 02:41:00,Industrial Zone,Ambulance,1,Critical,Heavy Pour
+678,2025-01-01 12:55:00,Bus Terminal,Ambulance,1,Critical,Light Showers
+679,2025-01-01 21:26:00,Mall,Taxi,4,Normal,Thunderstorm
+680,2025-01-01 04:33:00,Mall,Bus,12,Normal,Light Showers
+681,2025-01-01 17:31:00,Hospital,Delivery Bike,2,Normal,Thunderstorm
+682,2025-01-01 15:39:00,Airport,Van,5,Normal,Heavy Pour
+683,2025-01-01 08:59:00,Airport,Taxi,1,Normal,Cloudy
+684,2025-01-01 05:55:00,Suburbs,Delivery Bike,1,Normal,Light Showers
+685,2025-01-01 21:15:00,Hospital,Van,3,Normal,Thunderstorm
+686,2025-01-01 03:46:00,Mall,Ambulance,1,Moderate,Heavy Pour
+687,2025-01-01 22:16:00,Industrial Zone,Taxi,1,Normal,Cloudy
+688,2025-01-01 01:57:00,Downtown,Ambulance,1,Mild,Thunderstorm
+689,2025-01-01 00:53:00,Airport,Bus,19,Normal,Thunderstorm
+690,2025-01-01 09:24:00,University,Delivery Bike,2,Normal,Thunderstorm
+691,2025-01-01 00:52:00,University,Delivery Bike,2,Normal,Thunderstorm
+692,2025-01-01 09:17:00,University,Taxi,5,Normal,Thunderstorm
+693,2025-01-01 18:45:00,Residential Area,Delivery Bike,2,Normal,Heavy Pour
+694,2025-01-01 14:27:00,Mall,Ambulance,1,Moderate,Clear
+695,2025-01-01 06:37:00,University,Truck,18058,Normal,Cloudy
+696,2025-01-01 06:26:00,Downtown,Taxi,1,Normal,Cloudy
+697,2025-01-01 20:05:00,Airport,Bus,33,Normal,Light Showers
+698,2025-01-01 09:00:00,Hospital,Taxi,3,Normal,Thunderstorm
+699,2025-01-01 06:48:00,Industrial Zone,Ambulance,1,Mild,Cloudy
+700,2025-01-01 12:19:00,Suburbs,Delivery Bike,2,Normal,Light Showers
+701,2025-01-01 20:11:00,Residential Area,Truck,16193,Normal,Light Showers
+702,2025-01-01 03:49:00,Downtown,Taxi,1,Normal,Heavy Pour
+703,2025-01-01 01:58:00,Railway Station,Bus,37,Normal,Thunderstorm
+704,2025-01-01 13:03:00,Suburbs,Truck,12950,Normal,Heavy Pour
+705,2025-01-01 07:44:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+706,2025-01-01 11:37:00,Airport,Van,4,Normal,Clear
+707,2025-01-01 02:54:00,Hospital,Van,1,Normal,Heavy Pour
+708,2025-01-01 19:17:00,Airport,Bus,16,Normal,Light Showers
+709,2025-01-01 11:04:00,Downtown,Truck,9224,Normal,Clear
+710,2025-01-01 00:54:00,Bus Terminal,Van,2,Normal,Thunderstorm
+711,2025-01-01 08:38:00,Airport,Van,4,Normal,Cloudy
+712,2025-01-01 00:11:00,Residential Area,Ambulance,1,Mild,Thunderstorm
+713,2025-01-01 11:59:00,Airport,Taxi,3,Normal,Clear
+714,2025-01-01 06:12:00,Downtown,Bus,45,Normal,Cloudy
+715,2025-01-01 16:12:00,Airport,Truck,19591,Normal,Clear
+716,2025-01-01 05:30:00,University,Taxi,1,Normal,Light Showers
+717,2025-01-01 16:22:00,Downtown,Taxi,1,Normal,Clear
+718,2025-01-01 17:48:00,University,Bus,31,Normal,Thunderstorm
+719,2025-01-01 18:02:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+720,2025-01-01 10:15:00,Downtown,Taxi,3,Normal,Thunderstorm
+721,2025-01-01 08:08:00,Downtown,Ambulance,1,Critical,Cloudy
+722,2025-01-01 02:36:00,Residential Area,Delivery Bike,2,Normal,Heavy Pour
+723,2025-01-01 20:49:00,Downtown,Truck,2102,Normal,Light Showers
+724,2025-01-01 19:07:00,Mall,Bus,32,Normal,Light Showers
+725,2025-01-01 20:41:00,Hospital,Truck,9707,Normal,Light Showers
+726,2025-01-01 18:47:00,Downtown,Truck,1630,Normal,Heavy Pour
+727,2025-01-01 10:07:00,Industrial Zone,Taxi,4,Normal,Thunderstorm
+728,2025-01-01 07:13:00,Airport,Van,3,Normal,Heavy Pour
+729,2025-01-01 19:26:00,IT Park,Bus,41,Normal,Light Showers
+730,2025-01-01 08:59:00,Industrial Zone,Ambulance,1,Critical,Cloudy
+731,2025-01-01 04:37:00,Industrial Zone,Truck,17616,Normal,Light Showers
+732,2025-01-01 18:33:00,Hospital,Ambulance,1,Moderate,Heavy Pour
+733,2025-01-01 20:22:00,Hospital,Van,2,Normal,Light Showers
+734,2025-01-01 00:25:00,Residential Area,Bus,34,Normal,Thunderstorm
+735,2025-01-01 23:37:00,Downtown,Bus,54,Normal,Light Showers
+736,2025-01-01 22:42:00,Hospital,Ambulance,1,Mild,Cloudy
+737,2025-01-01 04:26:00,Residential Area,Ambulance,1,Mild,Light Showers
+738,2025-01-01 07:40:00,Residential Area,Ambulance,1,Mild,Heavy Pour
+739,2025-01-01 07:35:00,Mall,Van,4,Normal,Heavy Pour
+740,2025-01-01 16:46:00,Airport,Van,4,Normal,Clear
+741,2025-01-01 08:10:00,Railway Station,Truck,2072,Normal,Cloudy
+742,2025-01-01 09:23:00,Mall,Delivery Bike,2,Normal,Thunderstorm
+743,2025-01-01 03:35:00,Airport,Ambulance,1,Moderate,Heavy Pour
+744,2025-01-01 09:18:00,Downtown,Delivery Bike,1,Normal,Thunderstorm
+745,2025-01-01 08:08:00,Suburbs,Truck,4313,Normal,Cloudy
+746,2025-01-01 13:13:00,Railway Station,Van,1,Normal,Heavy Pour
+747,2025-01-01 00:04:00,Industrial Zone,Delivery Bike,2,Normal,Thunderstorm
+748,2025-01-01 06:00:00,Harbor,Truck,15794,Normal,Cloudy
+749,2025-01-01 04:07:00,Industrial Zone,Ambulance,1,Mild,Light Showers
+750,2025-01-01 15:45:00,Airport,Ambulance,1,Mild,Heavy Pour
+751,2025-01-01 07:01:00,Suburbs,Taxi,3,Normal,Heavy Pour
+752,2025-01-01 00:14:00,Airport,Ambulance,1,Critical,Thunderstorm
+753,2025-01-01 12:15:00,Suburbs,Bus,30,Normal,Light Showers
+754,2025-01-01 07:32:00,Industrial Zone,Bus,15,Normal,Heavy Pour
+755,2025-01-01 21:57:00,Suburbs,Taxi,2,Normal,Thunderstorm
+756,2025-01-01 11:53:00,Bus Terminal,Ambulance,1,Moderate,Clear
+757,2025-01-01 05:01:00,IT Park,Bus,22,Normal,Light Showers
+758,2025-01-01 20:46:00,Suburbs,Truck,2757,Normal,Light Showers
+759,2025-01-01 00:02:00,IT Park,Taxi,5,Normal,Thunderstorm
+760,2025-01-01 08:39:00,Industrial Zone,Delivery Bike,2,Normal,Cloudy
+761,2025-01-01 08:12:00,Hospital,Taxi,3,Normal,Cloudy
+762,2025-01-01 10:19:00,University,Delivery Bike,1,Normal,Thunderstorm
+763,2025-01-01 05:30:00,Airport,Delivery Bike,1,Normal,Light Showers
+764,2025-01-01 00:49:00,Downtown,Bus,20,Normal,Thunderstorm
+765,2025-01-01 14:22:00,Downtown,Taxi,4,Normal,Clear
+766,2025-01-01 04:31:00,Downtown,Truck,13867,Normal,Light Showers
+767,2025-01-01 21:15:00,University,Delivery Bike,2,Normal,Thunderstorm
+768,2025-01-01 11:35:00,Downtown,Delivery Bike,2,Normal,Clear
+769,2025-01-01 18:33:00,Hospital,Bus,21,Normal,Heavy Pour
+770,2025-01-01 19:22:00,Railway Station,Truck,9548,Normal,Light Showers
+771,2025-01-01 04:33:00,Suburbs,Delivery Bike,1,Normal,Light Showers
+772,2025-01-01 05:10:00,Bus Terminal,Van,2,Normal,Light Showers
+773,2025-01-01 02:33:00,Hospital,Delivery Bike,2,Normal,Heavy Pour
+774,2025-01-01 21:23:00,Residential Area,Van,4,Normal,Thunderstorm
+775,2025-01-01 14:42:00,University,Truck,4642,Normal,Clear
+776,2025-01-01 02:04:00,Bus Terminal,Bus,43,Normal,Heavy Pour
+777,2025-01-01 21:36:00,Industrial Zone,Delivery Bike,1,Normal,Thunderstorm
+778,2025-01-01 04:04:00,Hospital,Truck,3895,Normal,Light Showers
+779,2025-01-01 07:29:00,Downtown,Taxi,2,Normal,Heavy Pour
+780,2025-01-01 21:10:00,Harbor,Ambulance,1,Moderate,Thunderstorm
+781,2025-01-01 08:39:00,Hospital,Ambulance,1,Mild,Cloudy
+782,2025-01-01 19:24:00,Bus Terminal,Taxi,2,Normal,Light Showers
+783,2025-01-01 00:07:00,Suburbs,Ambulance,1,Critical,Thunderstorm
+784,2025-01-01 07:57:00,Railway Station,Taxi,4,Normal,Heavy Pour
+785,2025-01-01 08:14:00,Residential Area,Taxi,1,Normal,Cloudy
+786,2025-01-01 17:42:00,Airport,Delivery Bike,1,Normal,Thunderstorm
+787,2025-01-01 03:06:00,University,Ambulance,1,Moderate,Heavy Pour
+788,2025-01-01 12:33:00,Harbor,Taxi,5,Normal,Light Showers
+789,2025-01-01 01:25:00,Suburbs,Truck,13424,Normal,Thunderstorm
+790,2025-01-01 07:00:00,University,Bus,19,Normal,Heavy Pour
+791,2025-01-01 19:39:00,Mall,Van,2,Normal,Light Showers
+792,2025-01-01 21:18:00,Residential Area,Bus,52,Normal,Thunderstorm
+793,2025-01-01 02:49:00,Airport,Truck,5967,Normal,Heavy Pour
+794,2025-01-01 05:21:00,Harbor,Ambulance,1,Critical,Light Showers
+795,2025-01-01 07:35:00,IT Park,Truck,10135,Normal,Heavy Pour
+796,2025-01-01 13:09:00,Suburbs,Ambulance,1,Mild,Heavy Pour
+797,2025-01-01 10:12:00,Airport,Taxi,3,Normal,Thunderstorm
+798,2025-01-01 14:48:00,Airport,Delivery Bike,1,Normal,Clear
+799,2025-01-01 19:56:00,University,Bus,19,Normal,Light Showers
+800,2025-01-01 12:19:00,Downtown,Truck,8927,Normal,Light Showers
+801,2025-01-01 21:10:00,Downtown,Truck,3176,Normal,Thunderstorm
+802,2025-01-01 10:00:00,Suburbs,Van,5,Normal,Thunderstorm
+803,2025-01-01 05:26:00,Airport,Taxi,1,Normal,Light Showers
+804,2025-01-01 16:19:00,Residential Area,Taxi,4,Normal,Clear
+805,2025-01-01 10:28:00,Mall,Taxi,3,Normal,Thunderstorm
+806,2025-01-01 23:02:00,Railway Station,Bus,36,Normal,Light Showers
+807,2025-01-01 11:57:00,Downtown,Truck,13972,Normal,Clear
+808,2025-01-01 01:55:00,Bus Terminal,Bus,38,Normal,Thunderstorm
+809,2025-01-01 11:32:00,Downtown,Taxi,3,Normal,Clear
+810,2025-01-01 18:25:00,Industrial Zone,Ambulance,1,Moderate,Heavy Pour
+811,2025-01-01 05:23:00,Residential Area,Taxi,1,Normal,Light Showers
+812,2025-01-01 01:53:00,Downtown,Van,1,Normal,Thunderstorm
+813,2025-01-01 18:01:00,Industrial Zone,Taxi,2,Normal,Heavy Pour
+814,2025-01-01 23:47:00,Harbor,Ambulance,1,Mild,Light Showers
+815,2025-01-01 21:29:00,Suburbs,Ambulance,1,Critical,Thunderstorm
+816,2025-01-01 05:14:00,Downtown,Truck,10256,Normal,Light Showers
+817,2025-01-01 01:44:00,Downtown,Taxi,5,Normal,Thunderstorm
+818,2025-01-01 20:16:00,Suburbs,Bus,26,Normal,Light Showers
+819,2025-01-01 21:41:00,Hospital,Van,2,Normal,Thunderstorm
+820,2025-01-01 16:55:00,Industrial Zone,Bus,54,Normal,Clear
+821,2025-01-01 12:12:00,Downtown,Delivery Bike,2,Normal,Light Showers
+822,2025-01-01 11:48:00,Mall,Bus,20,Normal,Clear
+823,2025-01-01 13:43:00,Suburbs,Van,3,Normal,Heavy Pour
+824,2025-01-01 11:00:00,Airport,Truck,11521,Normal,Clear
+825,2025-01-01 06:42:00,Residential Area,Taxi,5,Normal,Cloudy
+826,2025-01-01 11:39:00,Downtown,Delivery Bike,1,Normal,Clear
+827,2025-01-01 22:06:00,University,Truck,11230,Normal,Cloudy
+828,2025-01-01 05:26:00,IT Park,Taxi,2,Normal,Light Showers
+829,2025-01-01 09:11:00,Hospital,Van,5,Normal,Thunderstorm
+830,2025-01-01 06:44:00,Downtown,Bus,23,Normal,Cloudy
+831,2025-01-01 02:11:00,Hospital,Taxi,2,Normal,Heavy Pour
+832,2025-01-01 01:23:00,Downtown,Ambulance,1,Mild,Thunderstorm
+833,2025-01-01 23:42:00,Suburbs,Taxi,2,Normal,Light Showers
+834,2025-01-01 10:27:00,University,Bus,54,Normal,Thunderstorm
+835,2025-01-01 03:40:00,Downtown,Van,1,Normal,Heavy Pour
+836,2025-01-01 23:11:00,Hospital,Ambulance,1,Critical,Light Showers
+837,2025-01-01 19:30:00,Airport,Truck,17998,Normal,Light Showers
+838,2025-01-01 15:23:00,Hospital,Ambulance,1,Critical,Heavy Pour
+839,2025-01-01 07:54:00,Suburbs,Bus,13,Normal,Heavy Pour
+840,2025-01-01 04:30:00,Suburbs,Bus,44,Normal,Light Showers
+841,2025-01-01 07:00:00,Railway Station,Bus,10,Normal,Heavy Pour
+842,2025-01-01 11:46:00,Airport,Truck,16639,Normal,Clear
+843,2025-01-01 21:46:00,Downtown,Taxi,5,Normal,Thunderstorm
+844,2025-01-01 19:47:00,University,Ambulance,1,Moderate,Light Showers
+845,2025-01-01 16:33:00,Downtown,Delivery Bike,1,Normal,Clear
+846,2025-01-01 08:55:00,Airport,Bus,51,Normal,Cloudy
+847,2025-01-01 17:07:00,Suburbs,Van,3,Normal,Thunderstorm
+848,2025-01-01 04:49:00,University,Bus,58,Normal,Light Showers
+849,2025-01-01 07:50:00,Railway Station,Delivery Bike,1,Normal,Heavy Pour
+850,2025-01-01 21:11:00,Airport,Delivery Bike,2,Normal,Thunderstorm
+851,2025-01-01 04:38:00,Suburbs,Bus,54,Normal,Light Showers
+852,2025-01-01 09:40:00,Downtown,Bus,40,Normal,Thunderstorm
+853,2025-01-01 04:13:00,Industrial Zone,Delivery Bike,1,Normal,Light Showers
+854,2025-01-01 11:20:00,IT Park,Delivery Bike,1,Normal,Clear
+855,2025-01-01 11:39:00,Airport,Bus,15,Normal,Clear
+856,2025-01-01 23:00:00,Mall,Truck,10865,Normal,Light Showers
+857,2025-01-01 11:19:00,Residential Area,Delivery Bike,1,Normal,Clear
+858,2025-01-01 18:28:00,Airport,Van,5,Normal,Heavy Pour
+859,2025-01-01 03:31:00,Railway Station,Delivery Bike,1,Normal,Heavy Pour
+860,2025-01-01 06:23:00,Suburbs,Bus,31,Normal,Cloudy
+861,2025-01-01 14:03:00,Downtown,Van,3,Normal,Clear
+862,2025-01-01 06:59:00,Airport,Van,1,Normal,Cloudy
+863,2025-01-01 22:46:00,Suburbs,Taxi,2,Normal,Cloudy
+864,2025-01-01 05:05:00,Mall,Taxi,5,Normal,Light Showers
+865,2025-01-01 08:56:00,Hospital,Bus,57,Normal,Cloudy
+866,2025-01-01 23:54:00,IT Park,Truck,17589,Normal,Light Showers
+867,2025-01-01 20:08:00,Airport,Van,3,Normal,Light Showers
+868,2025-01-01 17:50:00,Mall,Bus,45,Normal,Thunderstorm
+869,2025-01-01 08:23:00,Airport,Bus,31,Normal,Cloudy
+870,2025-01-01 03:32:00,Airport,Ambulance,1,Mild,Heavy Pour
+871,2025-01-01 05:09:00,Suburbs,Delivery Bike,1,Normal,Light Showers
+872,2025-01-01 12:32:00,Hospital,Truck,12834,Normal,Light Showers
+873,2025-01-01 15:37:00,Railway Station,Ambulance,1,Critical,Heavy Pour
+874,2025-01-01 20:25:00,Mall,Bus,41,Normal,Light Showers
+875,2025-01-01 07:22:00,Airport,Delivery Bike,2,Normal,Heavy Pour
+876,2025-01-01 12:46:00,Industrial Zone,Van,1,Normal,Light Showers
+877,2025-01-01 16:16:00,University,Truck,4551,Normal,Clear
+878,2025-01-01 00:09:00,Airport,Delivery Bike,2,Normal,Thunderstorm
+879,2025-01-01 08:24:00,Industrial Zone,Ambulance,1,Moderate,Cloudy
+880,2025-01-01 13:04:00,Suburbs,Delivery Bike,2,Normal,Heavy Pour
+881,2025-01-01 07:15:00,Residential Area,Truck,14422,Normal,Heavy Pour
+882,2025-01-01 02:32:00,Downtown,Truck,12156,Normal,Heavy Pour
+883,2025-01-01 14:28:00,Downtown,Taxi,1,Normal,Clear
+884,2025-01-01 20:14:00,Suburbs,Taxi,1,Normal,Light Showers
+885,2025-01-01 09:22:00,Hospital,Truck,13067,Normal,Thunderstorm
+886,2025-01-01 18:24:00,Suburbs,Van,1,Normal,Heavy Pour
+887,2025-01-01 14:54:00,Downtown,Bus,33,Normal,Clear
+888,2025-01-01 20:17:00,Mall,Van,3,Normal,Light Showers
+889,2025-01-01 20:21:00,Suburbs,Ambulance,1,Moderate,Light Showers
+890,2025-01-01 17:04:00,Industrial Zone,Taxi,2,Normal,Thunderstorm
+891,2025-01-01 02:46:00,Mall,Ambulance,1,Critical,Heavy Pour
+892,2025-01-01 08:28:00,Airport,Taxi,1,Normal,Cloudy
+893,2025-01-01 12:42:00,Airport,Taxi,1,Normal,Light Showers
+894,2025-01-01 07:56:00,Railway Station,Truck,19504,Normal,Heavy Pour
+895,2025-01-01 19:24:00,Harbor,Bus,15,Normal,Light Showers
+896,2025-01-01 04:21:00,Airport,Truck,2363,Normal,Light Showers
+897,2025-01-01 22:11:00,University,Ambulance,1,Mild,Cloudy
+898,2025-01-01 04:04:00,Airport,Delivery Bike,1,Normal,Light Showers
+899,2025-01-01 22:40:00,Suburbs,Truck,9752,Normal,Cloudy
+900,2025-01-01 18:19:00,Residential Area,Taxi,5,Normal,Heavy Pour
+901,2025-01-01 03:02:00,Downtown,Van,1,Normal,Heavy Pour
+902,2025-01-01 16:02:00,University,Bus,35,Normal,Clear
+903,2025-01-01 18:43:00,Downtown,Van,4,Normal,Heavy Pour
+904,2025-01-01 06:08:00,Airport,Truck,5946,Normal,Cloudy
+905,2025-01-01 00:42:00,Mall,Truck,2907,Normal,Thunderstorm
+906,2025-01-01 08:07:00,Hospital,Bus,23,Normal,Cloudy
+907,2025-01-01 13:45:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+908,2025-01-01 21:33:00,Residential Area,Van,2,Normal,Thunderstorm
+909,2025-01-01 11:40:00,Suburbs,Van,4,Normal,Clear
+910,2025-01-01 12:07:00,University,Delivery Bike,1,Normal,Light Showers
+911,2025-01-01 15:24:00,Hospital,Delivery Bike,1,Normal,Heavy Pour
+912,2025-01-01 15:01:00,Airport,Ambulance,1,Critical,Heavy Pour
+913,2025-01-01 14:48:00,Railway Station,Truck,18376,Normal,Clear
+914,2025-01-01 19:51:00,IT Park,Bus,28,Normal,Light Showers
+915,2025-01-01 03:12:00,Residential Area,Bus,14,Normal,Heavy Pour
+916,2025-01-01 04:42:00,Railway Station,Delivery Bike,2,Normal,Light Showers
+917,2025-01-01 06:29:00,Downtown,Truck,1999,Normal,Cloudy
+918,2025-01-01 08:44:00,Hospital,Taxi,3,Normal,Cloudy
+919,2025-01-01 10:58:00,University,Bus,21,Normal,Thunderstorm
+920,2025-01-01 14:50:00,Downtown,Truck,2481,Normal,Clear
+921,2025-01-01 18:32:00,Suburbs,Van,4,Normal,Heavy Pour
+922,2025-01-01 18:38:00,Downtown,Ambulance,1,Moderate,Heavy Pour
+923,2025-01-01 07:31:00,Downtown,Ambulance,1,Critical,Heavy Pour
+924,2025-01-01 07:07:00,Mall,Truck,18266,Normal,Heavy Pour
+925,2025-01-01 05:12:00,Railway Station,Taxi,5,Normal,Light Showers
+926,2025-01-01 13:59:00,Suburbs,Bus,16,Normal,Heavy Pour
+927,2025-01-01 20:29:00,Airport,Van,3,Normal,Light Showers
+928,2025-01-01 16:54:00,University,Truck,12442,Normal,Clear
+929,2025-01-01 20:33:00,Hospital,Ambulance,1,Moderate,Light Showers
+930,2025-01-01 08:19:00,Suburbs,Truck,5559,Normal,Cloudy
+931,2025-01-01 19:07:00,Hospital,Van,1,Normal,Light Showers
+932,2025-01-01 01:52:00,Mall,Taxi,4,Normal,Thunderstorm
+933,2025-01-01 19:09:00,Railway Station,Delivery Bike,1,Normal,Light Showers
+934,2025-01-01 05:30:00,Industrial Zone,Van,5,Normal,Light Showers
+935,2025-01-01 21:46:00,Mall,Taxi,4,Normal,Thunderstorm
+936,2025-01-01 23:44:00,Railway Station,Truck,11808,Normal,Light Showers
+937,2025-01-01 14:05:00,Residential Area,Truck,7261,Normal,Clear
+938,2025-01-01 14:47:00,Downtown,Van,3,Normal,Clear
+939,2025-01-01 17:36:00,Downtown,Van,2,Normal,Thunderstorm
+940,2025-01-01 00:18:00,Residential Area,Taxi,5,Normal,Thunderstorm
+941,2025-01-01 09:18:00,Residential Area,Bus,48,Normal,Thunderstorm
+942,2025-01-01 07:31:00,Airport,Taxi,1,Normal,Heavy Pour
+943,2025-01-01 19:24:00,Suburbs,Truck,14395,Normal,Light Showers
+944,2025-01-01 06:30:00,Downtown,Ambulance,1,Moderate,Cloudy
+945,2025-01-01 03:34:00,Mall,Taxi,3,Normal,Heavy Pour
+946,2025-01-01 02:07:00,Residential Area,Van,5,Normal,Heavy Pour
+947,2025-01-01 12:39:00,Harbor,Van,4,Normal,Light Showers
+948,2025-01-01 17:32:00,Downtown,Taxi,2,Normal,Thunderstorm
+949,2025-01-01 13:50:00,Downtown,Truck,6788,Normal,Heavy Pour
+950,2025-01-01 03:21:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+951,2025-01-01 05:21:00,Suburbs,Truck,17901,Normal,Light Showers
+952,2025-01-01 22:28:00,Downtown,Delivery Bike,2,Normal,Cloudy
+953,2025-01-01 22:21:00,Bus Terminal,Truck,2988,Normal,Cloudy
+954,2025-01-01 18:25:00,Downtown,Delivery Bike,2,Normal,Heavy Pour
+955,2025-01-01 07:04:00,Hospital,Truck,15256,Normal,Heavy Pour
+956,2025-01-01 20:27:00,IT Park,Taxi,3,Normal,Light Showers
+957,2025-01-01 06:26:00,Airport,Taxi,2,Normal,Cloudy
+958,2025-01-01 01:37:00,Downtown,Van,1,Normal,Thunderstorm
+959,2025-01-01 03:27:00,Downtown,Bus,11,Normal,Heavy Pour
+960,2025-01-01 09:45:00,IT Park,Truck,5117,Normal,Thunderstorm
+961,2025-01-01 02:33:00,Airport,Ambulance,1,Critical,Heavy Pour
+962,2025-01-01 21:58:00,Residential Area,Delivery Bike,1,Normal,Thunderstorm
+963,2025-01-01 11:08:00,Residential Area,Truck,2518,Normal,Clear
+964,2025-01-01 03:49:00,Residential Area,Delivery Bike,2,Normal,Heavy Pour
+965,2025-01-01 09:12:00,Mall,Ambulance,1,Critical,Thunderstorm
+966,2025-01-01 15:49:00,Bus Terminal,Ambulance,1,Mild,Heavy Pour
+967,2025-01-01 02:27:00,University,Ambulance,1,Critical,Heavy Pour
+968,2025-01-01 18:51:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+969,2025-01-01 09:55:00,Airport,Truck,4554,Normal,Thunderstorm
+970,2025-01-01 06:06:00,Airport,Truck,17193,Normal,Cloudy
+971,2025-01-01 23:57:00,University,Delivery Bike,1,Normal,Light Showers
+972,2025-01-01 13:21:00,Hospital,Bus,31,Normal,Heavy Pour
+973,2025-01-01 19:17:00,Airport,Taxi,3,Normal,Light Showers
+974,2025-01-01 01:12:00,Bus Terminal,Ambulance,1,Mild,Thunderstorm
+975,2025-01-01 08:00:00,Downtown,Delivery Bike,2,Normal,Cloudy
+976,2025-01-01 09:19:00,Downtown,Van,1,Normal,Thunderstorm
+977,2025-01-01 01:39:00,Downtown,Delivery Bike,1,Normal,Thunderstorm
+978,2025-01-01 08:27:00,Industrial Zone,Bus,11,Normal,Cloudy
+979,2025-01-01 06:52:00,University,Taxi,4,Normal,Cloudy
+980,2025-01-01 18:08:00,Downtown,Ambulance,1,Critical,Heavy Pour
+981,2025-01-01 09:54:00,Suburbs,Delivery Bike,2,Normal,Thunderstorm
+982,2025-01-01 04:25:00,University,Van,5,Normal,Light Showers
+983,2025-01-01 18:22:00,IT Park,Taxi,3,Normal,Heavy Pour
+984,2025-01-01 11:01:00,Hospital,Bus,57,Normal,Clear
+985,2025-01-01 15:16:00,Residential Area,Bus,31,Normal,Heavy Pour
+986,2025-01-01 14:27:00,Hospital,Van,2,Normal,Clear
+987,2025-01-01 06:53:00,Industrial Zone,Bus,34,Normal,Cloudy
+988,2025-01-01 04:43:00,Residential Area,Delivery Bike,1,Normal,Light Showers
+989,2025-01-01 14:40:00,Suburbs,Delivery Bike,1,Normal,Clear
+990,2025-01-01 18:11:00,Downtown,Delivery Bike,1,Normal,Heavy Pour
+991,2025-01-01 13:36:00,Downtown,Ambulance,1,Mild,Heavy Pour
+992,2025-01-01 19:20:00,Hospital,Taxi,4,Normal,Light Showers
+993,2025-01-01 01:22:00,Suburbs,Taxi,1,Normal,Thunderstorm
+994,2025-01-01 18:16:00,Industrial Zone,Ambulance,1,Moderate,Heavy Pour
+995,2025-01-01 21:00:00,University,Delivery Bike,2,Normal,Thunderstorm
+996,2025-01-01 10:17:00,Suburbs,Van,1,Normal,Thunderstorm
+997,2025-01-01 14:01:00,IT Park,Bus,59,Normal,Clear
+998,2025-01-01 00:53:00,Industrial Zone,Van,2,Normal,Thunderstorm
+999,2025-01-01 22:44:00,Downtown,Truck,4676,Normal,Cloudy
+1000,2025-01-01 06:18:00,Railway Station,Truck,3962,Normal,Cloudy

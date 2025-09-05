@@ -1,0 +1,201 @@
+Vehicle_ID,Vehicle_Type,Fuel_Type,Current_Zone,Capacity,Energy_Level(%),Is_Charging_Station_Zone
+V001,Ambulance,EV,Hospital,1,36,Yes
+V002,Bus,ICE,Mall,54,72,Yes
+V003,Delivery Bike,EV,Suburbs,2,60,Yes
+V004,Van,ICE,Bus Terminal,4,79,No
+V005,Bus,EV,IT Park,36,59,No
+V006,Van,ICE,IT Park,4,52,No
+V007,Delivery Bike,ICE,University,2,76,No
+V008,Van,ICE,IT Park,1,92,No
+V009,Truck,ICE,Hospital,7346,98,Yes
+V010,Taxi,EV,Hospital,2,67,Yes
+V011,Van,EV,Mall,3,59,Yes
+V012,Truck,EV,Mall,10041,80,Yes
+V013,Bus,ICE,Residential Area,59,96,No
+V014,Bus,ICE,Downtown,30,87,No
+V015,Ambulance,ICE,Downtown,1,45,No
+V016,Delivery Bike,ICE,Suburbs,1,77,Yes
+V017,Van,ICE,Bus Terminal,2,39,No
+V018,Delivery Bike,EV,Harbor,1,57,Yes
+V019,Ambulance,EV,Bus Terminal,1,38,No
+V020,Ambulance,ICE,Residential Area,1,65,No
+V021,Van,ICE,Downtown,5,88,No
+V022,Bus,ICE,Industrial Zone,32,75,Yes
+V023,Van,EV,Industrial Zone,1,93,Yes
+V024,Taxi,ICE,Downtown,3,37,No
+V025,Taxi,EV,Mall,5,92,Yes
+V026,Ambulance,EV,Downtown,1,25,No
+V027,Truck,EV,University,10488,58,No
+V028,Van,ICE,Suburbs,4,89,Yes
+V029,Ambulance,ICE,Downtown,1,83,No
+V030,Taxi,EV,Railway Station,1,56,No
+V031,Bus,EV,Downtown,56,75,No
+V032,Bus,ICE,IT Park,58,31,No
+V033,Van,ICE,Harbor,3,87,Yes
+V034,Bus,ICE,Industrial Zone,35,89,Yes
+V035,Bus,EV,University,33,59,No
+V036,Taxi,ICE,Suburbs,4,66,Yes
+V037,Van,EV,Harbor,2,37,Yes
+V038,Truck,EV,Industrial Zone,12829,82,Yes
+V039,Ambulance,EV,Railway Station,1,30,No
+V040,Ambulance,EV,Suburbs,1,77,Yes
+V041,Truck,ICE,Railway Station,18516,86,No
+V042,Bus,ICE,IT Park,51,33,No
+V043,Bus,ICE,Railway Station,58,36,No
+V044,Ambulance,ICE,Hospital,1,83,Yes
+V045,Delivery Bike,EV,IT Park,2,87,No
+V046,Delivery Bike,ICE,Residential Area,1,30,No
+V047,Ambulance,ICE,Airport,1,32,No
+V048,Ambulance,ICE,Hospital,1,67,Yes
+V049,Taxi,EV,Residential Area,5,20,No
+V050,Ambulance,ICE,University,1,58,No
+V051,Ambulance,EV,Industrial Zone,1,24,Yes
+V052,Bus,EV,Residential Area,57,93,No
+V053,Van,ICE,Bus Terminal,2,50,No
+V054,Taxi,ICE,IT Park,5,96,No
+V055,Delivery Bike,ICE,Suburbs,2,76,Yes
+V056,Ambulance,ICE,Suburbs,1,64,Yes
+V057,Van,EV,Railway Station,5,87,No
+V058,Ambulance,EV,Suburbs,1,20,Yes
+V059,Van,EV,Harbor,4,87,Yes
+V060,Ambulance,ICE,Industrial Zone,1,89,Yes
+V061,Van,EV,Suburbs,2,46,Yes
+V062,Truck,EV,Harbor,18976,42,Yes
+V063,Ambulance,ICE,Airport,1,50,No
+V064,Truck,EV,Residential Area,16582,80,No
+V065,Van,ICE,Harbor,1,81,Yes
+V066,Taxi,EV,Railway Station,5,74,No
+V067,Delivery Bike,EV,Railway Station,2,55,No
+V068,Truck,EV,Hospital,17601,68,Yes
+V069,Taxi,EV,Mall,1,58,Yes
+V070,Ambulance,ICE,Hospital,1,90,Yes
+V071,Taxi,ICE,Bus Terminal,3,38,No
+V072,Bus,EV,Downtown,36,54,No
+V073,Truck,EV,University,7472,41,No
+V074,Van,ICE,IT Park,2,34,No
+V075,Truck,EV,Mall,19806,95,Yes
+V076,Truck,ICE,Residential Area,19749,96,No
+V077,Ambulance,EV,Airport,1,76,No
+V078,Ambulance,ICE,Railway Station,1,58,No
+V079,Taxi,ICE,Harbor,5,66,Yes
+V080,Bus,ICE,Railway Station,43,61,No
+V081,Van,ICE,University,5,52,No
+V082,Ambulance,EV,Suburbs,1,36,Yes
+V083,Van,ICE,Airport,5,95,No
+V084,Van,ICE,University,4,35,No
+V085,Truck,ICE,Bus Terminal,18917,47,No
+V086,Bus,ICE,University,51,51,No
+V087,Ambulance,EV,Harbor,1,52,Yes
+V088,Bus,EV,Industrial Zone,46,49,Yes
+V089,Taxi,ICE,University,2,61,No
+V090,Van,EV,Industrial Zone,2,97,Yes
+V091,Van,EV,Industrial Zone,4,29,Yes
+V092,Ambulance,EV,Airport,1,55,No
+V093,Delivery Bike,ICE,Suburbs,1,63,Yes
+V094,Bus,EV,University,40,47,No
+V095,Bus,EV,Railway Station,36,97,No
+V096,Bus,ICE,Mall,51,76,Yes
+V097,Ambulance,ICE,University,1,48,No
+V098,Van,ICE,Downtown,4,44,No
+V099,Delivery Bike,EV,Downtown,2,43,No
+V100,Van,EV,Mall,1,28,Yes
+V101,Delivery Bike,ICE,Airport,1,91,No
+V102,Bus,EV,Suburbs,32,38,Yes
+V103,Taxi,ICE,Hospital,2,69,Yes
+V104,Delivery Bike,EV,Downtown,1,84,No
+V105,Ambulance,ICE,Hospital,1,79,Yes
+V106,Van,ICE,University,1,42,No
+V107,Van,ICE,Suburbs,5,63,Yes
+V108,Truck,EV,Airport,5238,67,No
+V109,Delivery Bike,EV,Bus Terminal,2,96,No
+V110,Taxi,EV,Downtown,5,68,No
+V111,Delivery Bike,EV,Residential Area,1,83,No
+V112,Ambulance,ICE,Mall,1,58,Yes
+V113,Bus,ICE,Railway Station,53,68,No
+V114,Taxi,ICE,Suburbs,1,55,Yes
+V115,Delivery Bike,ICE,Railway Station,1,42,No
+V116,Van,EV,Railway Station,1,45,No
+V117,Truck,ICE,University,10126,96,No
+V118,Ambulance,EV,Hospital,1,77,Yes
+V119,Van,ICE,Airport,5,78,No
+V120,Van,ICE,Downtown,1,94,No
+V121,Truck,ICE,Railway Station,17816,91,No
+V122,Taxi,ICE,Industrial Zone,1,72,Yes
+V123,Ambulance,EV,IT Park,1,22,No
+V124,Ambulance,ICE,Bus Terminal,1,58,No
+V125,Taxi,ICE,Downtown,2,61,No
+V126,Taxi,EV,Residential Area,1,35,No
+V127,Taxi,EV,Airport,4,73,No
+V128,Ambulance,EV,Hospital,1,92,Yes
+V129,Taxi,ICE,Hospital,1,85,Yes
+V130,Bus,ICE,Bus Terminal,48,70,No
+V131,Truck,EV,Suburbs,11773,70,Yes
+V132,Delivery Bike,ICE,Downtown,1,58,No
+V133,Ambulance,EV,Suburbs,1,38,Yes
+V134,Truck,ICE,Downtown,9008,95,No
+V135,Delivery Bike,ICE,Suburbs,1,74,Yes
+V136,Truck,ICE,Suburbs,9234,32,Yes
+V137,Taxi,EV,University,1,72,No
+V138,Taxi,EV,Bus Terminal,3,37,No
+V139,Delivery Bike,ICE,Harbor,2,77,Yes
+V140,Ambulance,ICE,Mall,1,37,Yes
+V141,Truck,ICE,Hospital,7565,51,Yes
+V142,Truck,EV,IT Park,15990,95,No
+V143,Ambulance,EV,Railway Station,1,76,No
+V144,Ambulance,ICE,Downtown,1,65,No
+V145,Delivery Bike,ICE,Railway Station,1,86,No
+V146,Bus,ICE,Downtown,47,74,No
+V147,Taxi,EV,Suburbs,5,85,Yes
+V148,Ambulance,ICE,Bus Terminal,1,74,No
+V149,Bus,ICE,Downtown,58,49,No
+V150,Van,EV,Airport,3,86,No
+V151,Bus,EV,IT Park,51,22,No
+V152,Taxi,EV,IT Park,3,97,No
+V153,Taxi,EV,Harbor,4,74,Yes
+V154,Ambulance,ICE,Railway Station,1,89,No
+V155,Delivery Bike,EV,Residential Area,2,94,No
+V156,Truck,EV,Suburbs,8306,49,Yes
+V157,Delivery Bike,ICE,Suburbs,2,31,Yes
+V158,Delivery Bike,ICE,University,1,78,No
+V159,Ambulance,EV,University,1,50,No
+V160,Taxi,ICE,Harbor,1,90,Yes
+V161,Delivery Bike,EV,Airport,2,55,No
+V162,Taxi,EV,Bus Terminal,2,92,No
+V163,Taxi,ICE,Harbor,5,87,Yes
+V164,Ambulance,EV,Bus Terminal,1,64,No
+V165,Bus,EV,Suburbs,36,81,Yes
+V166,Bus,EV,University,49,77,No
+V167,Van,ICE,Suburbs,4,93,Yes
+V168,Taxi,EV,Harbor,3,48,Yes
+V169,Van,ICE,IT Park,4,38,No
+V170,Truck,ICE,Airport,7972,35,No
+V171,Delivery Bike,EV,Hospital,1,77,Yes
+V172,Truck,EV,University,15966,35,No
+V173,Van,ICE,Bus Terminal,5,32,No
+V174,Delivery Bike,ICE,Downtown,2,93,No
+V175,Van,EV,Bus Terminal,2,55,No
+V176,Truck,ICE,Suburbs,12081,91,Yes
+V177,Bus,ICE,Industrial Zone,58,71,Yes
+V178,Bus,ICE,Downtown,40,42,No
+V179,Van,ICE,Bus Terminal,3,83,No
+V180,Ambulance,EV,Hospital,1,76,Yes
+V181,Delivery Bike,ICE,IT Park,1,69,No
+V182,Ambulance,ICE,University,1,88,No
+V183,Bus,ICE,Hospital,59,31,Yes
+V184,Taxi,ICE,IT Park,4,39,No
+V185,Delivery Bike,ICE,Harbor,1,40,Yes
+V186,Taxi,ICE,University,2,31,No
+V187,Bus,EV,Residential Area,48,31,No
+V188,Delivery Bike,ICE,Downtown,2,52,No
+V189,Bus,ICE,IT Park,46,91,No
+V190,Bus,ICE,Bus Terminal,35,91,No
+V191,Delivery Bike,EV,Bus Terminal,2,86,No
+V192,Delivery Bike,EV,Railway Station,2,86,No
+V193,Truck,ICE,Downtown,18440,90,No
+V194,Truck,ICE,Downtown,11111,74,No
+V195,Taxi,EV,Downtown,5,47,No
+V196,Taxi,EV,Suburbs,3,32,Yes
+V197,Truck,ICE,Residential Area,12957,36,No
+V198,Delivery Bike,ICE,Industrial Zone,1,82,Yes
+V199,Taxi,ICE,IT Park,4,33,No
+V200,Delivery Bike,ICE,Railway Station,2,62,No
