@@ -179,9 +179,3 @@ The dashboard connects to the backend and streams **real-time updates**.
 
 ---
 
-## ✨ Author
-
-👨‍💻 **Cavin Chandran**
-💡 Built as part of **Fleet Optimization Project (BAEon Internship)**
-
----
